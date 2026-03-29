@@ -122,7 +122,7 @@ AVERAGE(Patients[Satisfaction_Score])
 
 ## Dataset Schema
 
-The source dataset (`healthcare_dataset.csv`) contains 1,000 rows with the following fields:
+The source dataset (`RX Mediplus.csv`) contains 1,000 rows with the following fields:
 
 | Column | Type | Description |
 |---|---|---|
@@ -148,12 +148,11 @@ The source dataset (`healthcare_dataset.csv`) contains 1,000 rows with the follo
 ```
 Healthcare-Analytics-PowerBI/
 ├── report/
-│   ├── Healthcare_Analytics.pbix       ← main Power BI report file
-│   └── Healthcare_Analytics.pdf        ← exported static view
+│   ├── RX Medicareplus.pbix       ← main Power BI report file
 ├── data/
-│   └── healthcare_dataset.csv          ← 1,000-row source dataset
+│   └── RX Medicareplus.csv         ← 1,000-row source dataset
 ├── docs/
-│   ├── Healthcare_Dashboard_Report.docx ← full written summary report
+│   ├── RX Medicareplus Report Summary.docx ← full written summary report
 │   └── screenshots/
 │       ├── 01_executive_overview.png
 │       ├── 02_clinical_outcomes.png
@@ -198,7 +197,9 @@ Healthcare-Analytics-PowerBI/
 ## Author
 
 **Abdulhamid Abdulwalid Danjuma** — Data Analyst  
-Built as part of an independent healthcare analytics project.  
+Built as part of an independent healthcare analytics project.
+## Twitter
+https://x.com/Aabdul_HameedD
 
 ## License
 
