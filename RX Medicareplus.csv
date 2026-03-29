@@ -1,0 +1,1001 @@
+Visit_ID,Patient_ID,Patient_Age,Patient_Gender,Admission_Date,Discharge_Date,Hospital_Department,Diagnosis,Treatment_Type,Doctor_ID,Length_of_Stay_Days,Insurance_Type,Treatment_Cost_USD,Outcome,Follow_Up_Required,Patient_Satisfaction_Score,Hospital_Branch,Payment_Status
+HV1000,P2655,53,Male,2024-01-13,2024-01-16,Neurology,Stroke,Surgery,D109,3,Government,2712,Recovered,Yes,2.0,Central,Insurance Processing
+HV1001,P2204,42,Female,2024-04-22,2024-04-24,Obstetrics,Childbirth,Medication,D111,2,Government,448,Recovered,Yes,4.0,Central,Pending
+HV1002,P2353,40,Female,2024-01-23,2024-01-24,Obstetrics,Childbirth,Observation,D106,1,Government,198,Recovered,Yes,3.0,Central,Paid
+HV1003,P2104,40,Female,2024-05-22,2024-05-28,Obstetrics,Childbirth,Surgery,D124,6,Private,7749,Recovered,Yes,5.0,North,Paid
+HV1004,P2474,73,Female,2024-05-18,2024-05-19,Oncology,Colon Cancer,Therapy,D104,1,Private,1792,Ongoing,No,2.0,East,Pending
+HV1005,P2659,58,Female,2024-03-14,2024-03-24,Neurology,Stroke,Surgery,D136,10,Government,9354,Recovered,Yes,5.0,East,Paid
+HV1006,P2049,36,Male,2024-03-19,2024-03-20,Orthopedics,Dislocation,Observation,D139,1,Private,370,Recovered,Yes,,Central,Insurance Processing
+HV1007,P2550,54,Female,2024-11-24,2024-11-25,Gynecology,Fibroids,Therapy,D128,1,Private,1578,Recovered,Yes,,West,Insurance Processing
+HV1008,P2520,49,Male,2024-03-19,2024-03-20,Gynecology,Fibroids,Medication,D139,1,Private,119,Ongoing,No,2.0,Central,Paid
+HV1009,P2581,10,Male,2024-02-13,2024-02-14,Obstetrics,Childbirth,Surgery,D109,1,Government,4171,Recovered,Yes,5.0,North,Insurance Processing
+HV1010,P2320,26,Female,2024-12-09,2024-12-10,Gynecology,Ovarian Cyst,Observation,D108,1,Private,401,Recovered,Yes,1.0,Central,Paid
+HV1011,P2070,50,Male,2024-06-18,2024-06-19,Emergency,Food Poisoning,Therapy,D132,1,Private,2838,Recovered,No,2.0,Central,Paid
+HV1012,P2675,71,Female,2024-06-30,2024-07-01,Dermatology,Dermatitis,Observation,D104,1,Government,306,Ongoing,Yes,2.0,North,Paid
+HV1013,P2550,40,Female,2024-03-12,2024-03-14,Dermatology,Skin Infection,Therapy,D130,2,Private,2315,Recovered,Yes,1.0,North,Paid
+HV1014,P2417,35,Female,2024-09-03,2024-09-05,Oncology,Leukemia,Medication,D111,2,Private,499,Recovered,No,2.0,North,Pending
+HV1015,P2223,46,Male,2024-10-23,2024-10-24,Cardiology,Arrhythmia,Medication,D104,1,Government,614,Recovered,Yes,1.0,Central,Insurance Processing
+HV1016,P2241,34,Female,2024-03-02,2024-03-05,Oncology,Colon Cancer,Medication,D140,3,Private,773,Recovered,No,2.0,West,Pending
+HV1017,P2135,39,Female,2024-08-22,2024-08-23,Gynecology,Fibroids,Medication,D130,1,Government,676,Recovered,No,1.0,North,Pending
+HV1018,P2292,44,Male,2024-08-12,2024-08-13,Neurology,Epilepsy,Medication,D136,1,Private,779,Ongoing,Yes,3.0,West,Insurance Processing
+HV1019,P2216,25,Female,2024-04-14,2024-04-21,Neurology,Epilepsy,Observation,D117,7,None,316,Recovered,No,2.0,West,Paid
+HV1020,P2453,59,Female,2024-10-14,2024-10-15,Cardiology,Hypertension,Medication,D110,1,Government,478,Recovered,No,1.0,West,Paid
+HV1021,P2699,23,Male,2024-12-07,2024-12-09,Emergency,Appendicitis,Observation,D140,2,Government,190,Recovered,No,4.0,North,Pending
+HV1022,P2164,21,Male,2024-07-14,2024-07-24,Cardiology,Heart Attack,Surgery,D113,10,None,4500,Recovered,No,3.0,West,Paid
+HV1023,P2286,48,Female,2024-11-24,2024-11-28,Dermatology,Dermatitis,Medication,D108,4,None,367,Recovered,No,,West,Pending
+HV1024,P2621,58,Male,2024-07-16,2024-07-17,Oncology,Leukemia,Medication,D128,1,Private,651,Recovered,No,5.0,West,Insurance Processing
+HV1025,P2128,48,Female,2024-09-16,2024-09-17,Neurology,Epilepsy,Observation,D121,1,Private,198,Referred,Yes,5.0,West,Pending
+HV1026,P2562,42,Male,2024-06-04,2024-06-05,Neurology,Stroke,Observation,D138,1,Government,326,Recovered,Yes,,Central,Pending
+HV1027,P2528,39,Female,2024-02-17,2024-02-18,Oncology,Colon Cancer,Therapy,D115,1,None,600,Recovered,Yes,4.0,East,Insurance Processing
+HV1028,P2590,36,Male,2024-12-22,2024-12-23,Dermatology,Dermatitis,Observation,D116,1,Private,317,Ongoing,No,1.0,North,Paid
+HV1029,P2468,64,Male,2024-08-25,2024-08-27,Gynecology,Ovarian Cyst,Observation,D136,2,Private,232,Ongoing,No,5.0,East,Insurance Processing
+HV1030,P2245,50,Female,2024-08-13,2024-08-14,Emergency,Appendicitis,Surgery,D118,1,Private,3133,Recovered,Yes,1.0,East,Pending
+HV1031,P2339,38,Female,2024-07-31,2024-08-13,Cardiology,Heart Failure,Observation,D125,13,None,491,Recovered,No,3.0,East,Pending
+HV1032,P2552,32,Male,2024-09-06,2024-09-07,Oncology,Leukemia,Observation,D132,1,Private,184,Ongoing,Yes,4.0,Central,Paid
+HV1033,P2659,56,Female,2024-03-10,2024-03-15,Obstetrics,Childbirth,Medication,D117,5,Private,316,Recovered,No,3.0,Central,Pending
+HV1034,P2020,63,Male,2024-06-28,2024-07-02,Oncology,Colon Cancer,Medication,D103,4,Government,353,Recovered,No,,Central,Insurance Processing
+HV1035,P2224,61,Female,2024-12-24,2024-12-25,Neurology,Migraine,Surgery,D139,1,Government,9902,Recovered,No,5.0,East,Pending
+HV1036,P2204,29,Male,2024-10-30,2024-11-04,Oncology,Lung Cancer,Therapy,D139,5,None,668,Recovered,No,1.0,East,Pending
+HV1037,P2109,39,Female,2024-07-04,2024-07-06,Obstetrics,Childbirth,Observation,D112,2,Government,375,Recovered,No,3.0,North,Paid
+HV1038,P2286,36,Female,2024-05-04,2024-05-05,Obstetrics,Childbirth,Therapy,D102,1,Government,1244,Recovered,No,5.0,West,Insurance Processing
+HV1039,P2011,41,Male,2024-02-13,2024-02-14,Oncology,Colon Cancer,Observation,D132,1,Government,464,Ongoing,Yes,3.0,North,Pending
+HV1040,P2250,59,Female,2024-12-05,2024-12-11,Gynecology,Ovarian Cyst,Therapy,D128,6,None,1854,Recovered,Yes,1.0,North,Pending
+HV1041,P2123,69,Male,2024-04-08,2024-04-09,Oncology,Colon Cancer,Observation,D118,1,Government,151,Recovered,No,2.0,West,Paid
+HV1042,P2547,51,Male,2024-05-20,2024-05-24,Cardiology,Hypertension,Therapy,D109,4,Government,920,Recovered,No,3.0,North,Paid
+HV1043,P2259,33,Female,2024-02-28,2024-03-01,Emergency,Severe Dehydration,Observation,D105,2,Government,388,Recovered,Yes,1.0,East,Insurance Processing
+HV1044,P2611,44,Male,2024-09-24,2024-09-26,Dermatology,Dermatitis,Observation,D120,2,None,417,Referred,Yes,2.0,North,Pending
+HV1045,P2677,73,Male,2024-03-21,2024-03-22,Oncology,Lung Cancer,Medication,D111,1,Private,561,Recovered,No,,East,Paid
+HV1046,P2240,46,Female,2024-11-16,2024-11-17,Oncology,Leukemia,Medication,D135,1,Private,252,Recovered,No,5.0,West,Pending
+HV1047,P2128,39,Female,2024-12-18,2024-12-20,Neurology,Epilepsy,Observation,D118,2,Government,406,Recovered,No,5.0,West,Paid
+HV1048,P2094,41,Male,2024-12-11,2024-12-12,Cardiology,Arrhythmia,Medication,D112,1,Government,767,Recovered,No,1.0,East,Pending
+HV1049,P2419,51,Female,2024-06-13,2024-06-17,Emergency,Food Poisoning,Therapy,D127,4,Government,2140,Recovered,No,3.0,West,Paid
+HV1050,P2414,30,Male,2024-12-02,2024-12-09,Obstetrics,Childbirth,Medication,D113,7,Government,737,Recovered,Yes,3.0,East,Insurance Processing
+HV1051,P2497,35,Male,2024-01-15,2024-01-19,Oncology,Colon Cancer,Surgery,D120,4,Government,2763,Ongoing,No,1.0,North,Pending
+HV1052,P2299,61,Female,2024-07-31,2024-08-04,Obstetrics,Childbirth,Surgery,D130,4,Government,9551,Ongoing,Yes,3.0,East,Pending
+HV1053,P2520,50,Female,2024-01-02,2024-01-03,Neurology,Epilepsy,Therapy,D138,1,Government,2505,Recovered,No,5.0,East,Pending
+HV1054,P2330,46,Male,2024-12-23,2024-12-27,Oncology,Colon Cancer,Observation,D115,4,None,481,Ongoing,No,4.0,North,Pending
+HV1055,P2038,62,Male,2024-09-14,2024-09-20,Gynecology,Fibroids,Observation,D107,6,Government,173,Recovered,Yes,1.0,East,Pending
+HV1056,P2347,32,Female,2024-11-28,2024-11-29,Emergency,Appendicitis,Observation,D121,1,Government,416,Recovered,No,2.0,Central,Pending
+HV1057,P2101,39,Male,2024-08-15,2024-08-16,Orthopedics,Dislocation,Therapy,D102,1,Private,1701,Recovered,No,5.0,North,Paid
+HV1058,P2180,50,Male,2024-11-08,2024-11-09,Dermatology,Skin Infection,Observation,D138,1,Private,230,Ongoing,No,3.0,North,Paid
+HV1059,P2453,49,Female,2024-10-27,2024-10-29,Neurology,Epilepsy,Observation,D117,2,Government,347,Recovered,No,5.0,West,Insurance Processing
+HV1060,P2303,19,Male,2024-12-03,2024-12-04,Dermatology,Dermatitis,Medication,D137,1,None,150,Ongoing,Yes,5.0,West,Paid
+HV1061,P2652,37,Male,2024-11-13,2024-11-14,Neurology,Epilepsy,Surgery,D107,1,None,4530,Recovered,Yes,1.0,West,Pending
+HV1062,P2426,42,Male,2024-04-12,2024-04-14,Orthopedics,Dislocation,Therapy,D134,2,Government,1173,Recovered,No,1.0,East,Paid
+HV1063,P2145,52,Male,2024-12-12,2024-12-15,Dermatology,Dermatitis,Medication,D126,3,Private,649,Recovered,No,,West,Paid
+HV1064,P2692,49,Male,2024-08-29,2024-09-07,Cardiology,Arrhythmia,Surgery,D105,9,Government,7318,Recovered,Yes,3.0,East,Paid
+HV1065,P2100,43,Male,2024-10-02,2024-10-03,Orthopedics,Knee Injury,Observation,D124,1,Government,480,Ongoing,Yes,4.0,East,Pending
+HV1066,P2034,10,Female,2024-04-21,2024-04-22,Obstetrics,Childbirth,Surgery,D124,1,Private,9386,Recovered,Yes,1.0,East,Paid
+HV1067,P2679,44,Male,2024-11-24,2024-11-25,Cardiology,Hypertension,Therapy,D116,1,None,1340,Recovered,Yes,3.0,North,Insurance Processing
+HV1068,P2003,46,Female,2024-03-15,2024-03-16,Orthopedics,Dislocation,Therapy,D112,1,Private,1039,Recovered,No,1.0,North,Pending
+HV1069,P2054,89,Male,2024-08-03,2024-08-04,Emergency,Malaria,Observation,D129,1,Government,331,Referred,Yes,,West,Pending
+HV1070,P2659,41,Male,2024-02-01,2024-02-02,Obstetrics,Childbirth,Observation,D107,1,Government,141,Recovered,Yes,3.0,West,Pending
+HV1071,P2612,50,Female,2024-08-20,2024-08-22,Dermatology,Skin Infection,Medication,D136,2,Government,320,Ongoing,No,4.0,Central,Pending
+HV1072,P2438,65,Female,2024-12-06,2024-12-07,Neurology,Migraine,Surgery,D131,1,Private,5537,Recovered,Yes,5.0,Central,Insurance Processing
+HV1073,P2576,58,Female,2024-12-09,2024-12-12,Emergency,Severe Dehydration,Therapy,D128,3,None,1678,Recovered,Yes,2.0,East,Paid
+HV1074,P2111,70,Female,2024-10-11,2024-10-14,Gynecology,Fibroids,Therapy,D137,3,Private,2797,Recovered,Yes,5.0,West,Paid
+HV1075,P2185,19,Female,2024-12-25,2024-12-27,Neurology,Migraine,Therapy,D101,2,Private,2819,Recovered,Yes,1.0,North,Pending
+HV1076,P2430,27,Female,2024-06-23,2024-06-24,Orthopedics,Knee Injury,Therapy,D121,1,Government,2942,Ongoing,Yes,,Central,Pending
+HV1077,P2454,34,Female,2024-09-05,2024-09-07,Obstetrics,Childbirth,Therapy,D114,2,Government,1913,Recovered,No,5.0,West,Paid
+HV1078,P2226,17,Female,2024-11-02,2024-11-05,Cardiology,Hypertension,Surgery,D120,3,None,4371,Recovered,No,2.0,North,Pending
+HV1079,P2546,46,Male,2024-09-13,2024-09-14,Gynecology,Fibroids,Observation,D103,1,Private,260,Recovered,No,3.0,Central,Pending
+HV1080,P2022,28,Female,2024-03-28,2024-04-05,Obstetrics,Childbirth,Medication,D128,8,None,349,Recovered,No,,West,Paid
+HV1081,P2342,72,Male,2024-02-09,2024-02-10,Emergency,Food Poisoning,Therapy,D123,1,Government,1104,Recovered,Yes,,Central,Paid
+HV1082,P2644,30,Female,2024-08-25,2024-09-01,Obstetrics,Childbirth,Therapy,D110,7,Private,2311,Recovered,No,5.0,Central,Pending
+HV1083,P2473,39,Female,2024-01-20,2024-01-26,Cardiology,Arrhythmia,Therapy,D105,6,Government,2933,Recovered,Yes,4.0,North,Pending
+HV1084,P2620,59,Female,2024-09-13,2024-09-18,Orthopedics,Fracture,Observation,D107,5,None,430,Recovered,No,4.0,North,Pending
+HV1085,P2382,22,Female,2024-07-17,2024-07-19,Dermatology,Dermatitis,Medication,D122,2,Private,196,Recovered,Yes,3.0,Central,Insurance Processing
+HV1086,P2680,16,Male,2024-06-28,2024-06-29,Neurology,Epilepsy,Observation,D109,1,Government,292,Recovered,Yes,,Central,Insurance Processing
+HV1087,P2687,48,Female,2024-09-17,2024-09-23,Gynecology,Fibroids,Therapy,D120,6,Private,1899,Recovered,Yes,2.0,Central,Pending
+HV1088,P2104,49,Male,2024-12-04,2024-12-05,Gynecology,Fibroids,Observation,D110,1,Private,324,Recovered,Yes,4.0,West,Insurance Processing
+HV1089,P2460,59,Male,2024-09-30,2024-10-01,Oncology,Leukemia,Observation,D113,1,Private,493,Recovered,No,2.0,North,Insurance Processing
+HV1090,P2142,54,Female,2024-01-27,2024-02-02,Obstetrics,Childbirth,Medication,D134,6,None,391,Ongoing,Yes,4.0,Central,Paid
+HV1091,P2462,50,Female,2024-01-14,2024-01-18,Dermatology,Skin Infection,Observation,D133,4,Private,214,Referred,No,2.0,North,Paid
+HV1092,P2294,32,Female,2024-12-22,2024-12-23,Orthopedics,Dislocation,Observation,D129,1,Government,210,Recovered,No,1.0,West,Paid
+HV1093,P2309,49,Male,2024-01-25,2024-01-31,Oncology,Leukemia,Observation,D105,6,Private,108,Recovered,Yes,3.0,East,Paid
+HV1094,P2630,50,Female,2024-05-03,2024-05-04,Dermatology,Skin Infection,Medication,D134,1,None,169,Recovered,Yes,4.0,East,Paid
+HV1095,P2651,32,Female,2024-07-10,2024-07-11,Neurology,Epilepsy,Medication,D123,1,Government,453,Ongoing,No,2.0,Central,Pending
+HV1096,P2560,78,Female,2024-11-25,2024-11-28,Orthopedics,Dislocation,Observation,D131,3,Government,497,Recovered,Yes,1.0,North,Paid
+HV1097,P2324,53,Female,2024-09-20,2024-09-21,Dermatology,Dermatitis,Therapy,D103,1,Government,1671,Recovered,No,1.0,West,Pending
+HV1098,P2410,27,Female,2024-07-16,2024-07-17,Gynecology,Fibroids,Observation,D132,1,Private,142,Recovered,Yes,5.0,West,Pending
+HV1099,P2106,59,Male,2024-06-16,2024-06-20,Neurology,Migraine,Observation,D139,4,Government,328,Ongoing,No,5.0,East,Pending
+HV1100,P2655,62,Male,2024-02-08,2024-02-11,Dermatology,Dermatitis,Surgery,D102,3,Private,2285,Ongoing,No,3.0,East,Insurance Processing
+HV1101,P2034,52,Male,2024-12-13,2024-12-15,Obstetrics,Childbirth,Therapy,D129,2,Government,1063,Recovered,Yes,1.0,Central,Insurance Processing
+HV1102,P2191,40,Female,2024-09-22,2024-09-23,Dermatology,Skin Infection,Therapy,D117,1,Government,1669,Recovered,Yes,4.0,North,Insurance Processing
+HV1103,P2456,31,Male,2024-12-15,2024-12-16,Gynecology,Ovarian Cyst,Medication,D136,1,Government,407,Recovered,No,5.0,North,Paid
+HV1104,P2206,43,Male,2024-05-01,2024-05-07,Obstetrics,Childbirth,Therapy,D136,6,Government,2759,Recovered,No,,East,Insurance Processing
+HV1105,P2421,51,Female,2024-10-21,2024-10-23,Emergency,Food Poisoning,Therapy,D105,2,Private,2619,Ongoing,Yes,2.0,East,Insurance Processing
+HV1106,P2057,45,Male,2024-09-22,2024-09-24,Orthopedics,Knee Injury,Surgery,D111,2,Private,9761,Ongoing,No,2.0,West,Paid
+HV1107,P2641,71,Female,2024-11-10,2024-11-12,Emergency,Food Poisoning,Surgery,D111,2,Government,8902,Ongoing,Yes,1.0,West,Insurance Processing
+HV1108,P2216,56,Female,2024-11-12,2024-11-13,Cardiology,Heart Attack,Therapy,D120,1,Government,1718,Recovered,No,4.0,East,Paid
+HV1109,P2349,29,Male,2024-06-09,2024-06-10,Gynecology,Ovarian Cyst,Observation,D109,1,Government,263,Recovered,No,2.0,North,Paid
+HV1110,P2052,25,Female,2024-07-15,2024-07-23,Dermatology,Skin Infection,Surgery,D121,8,None,8251,Recovered,No,3.0,East,Paid
+HV1111,P2093,53,Female,2024-09-15,2024-09-24,Obstetrics,Childbirth,Surgery,D138,9,Private,6054,Recovered,No,3.0,Central,Paid
+HV1112,P2442,40,Male,2024-05-15,2024-05-16,Gynecology,Ovarian Cyst,Therapy,D103,1,Private,2801,Recovered,No,5.0,West,Insurance Processing
+HV1113,P2697,57,Male,2024-03-06,2024-03-13,Emergency,Severe Dehydration,Therapy,D122,7,Government,1090,Recovered,Yes,1.0,North,Insurance Processing
+HV1114,P2342,53,Female,2024-09-22,2024-10-01,Obstetrics,Childbirth,Surgery,D121,9,None,5219,Recovered,No,5.0,East,Insurance Processing
+HV1115,P2577,43,Female,2024-08-31,2024-09-05,Cardiology,Arrhythmia,Therapy,D108,5,None,1760,Recovered,No,3.0,North,Insurance Processing
+HV1116,P2053,29,Female,2024-03-28,2024-04-02,Dermatology,Skin Infection,Surgery,D103,5,Government,2155,Recovered,Yes,4.0,East,Insurance Processing
+HV1117,P2064,17,Male,2024-09-22,2024-09-23,Oncology,Colon Cancer,Therapy,D131,1,Government,1209,Recovered,No,5.0,East,Paid
+HV1118,P2253,48,Female,2024-10-12,2024-10-20,Neurology,Stroke,Therapy,D119,8,Government,1798,Referred,No,3.0,Central,Insurance Processing
+HV1119,P2693,22,Female,2024-07-21,2024-07-24,Gynecology,Fibroids,Therapy,D103,3,Private,1918,Recovered,Yes,2.0,West,Insurance Processing
+HV1120,P2279,29,Male,2024-02-25,2024-02-27,Oncology,Lung Cancer,Medication,D134,2,Private,338,Recovered,Yes,1.0,North,Pending
+HV1121,P2669,47,Female,2024-09-01,2024-09-14,Oncology,Leukemia,Therapy,D119,13,Government,2851,Ongoing,Yes,2.0,East,Paid
+HV1122,P2038,46,Female,2024-09-10,2024-09-16,Orthopedics,Dislocation,Therapy,D103,6,Private,2968,Deceased,No,2.0,East,Pending
+HV1123,P2198,24,Male,2024-06-18,2024-06-22,Orthopedics,Dislocation,Observation,D117,4,Government,251,Ongoing,Yes,5.0,East,Pending
+HV1124,P2528,64,Female,2024-02-14,2024-02-15,Dermatology,Skin Infection,Surgery,D109,1,Government,4136,Ongoing,No,3.0,Central,Pending
+HV1125,P2670,63,Female,2024-12-20,2024-12-21,Oncology,Lung Cancer,Medication,D130,1,Private,515,Recovered,No,3.0,North,Paid
+HV1126,P2137,54,Female,2024-03-19,2024-03-25,Obstetrics,Childbirth,Observation,D136,6,None,226,Recovered,Yes,5.0,East,Insurance Processing
+HV1127,P2371,54,Male,2024-10-15,2024-10-22,Emergency,Malaria,Surgery,D137,7,Government,8999,Recovered,No,1.0,East,Paid
+HV1128,P2465,54,Male,2024-09-19,2024-09-23,Dermatology,Dermatitis,Medication,D136,4,Government,415,Recovered,Yes,1.0,East,Pending
+HV1129,P2066,90,Male,2024-02-05,2024-02-08,Obstetrics,Childbirth,Therapy,D127,3,Private,2221,Ongoing,No,4.0,Central,Insurance Processing
+HV1130,P2678,62,Male,2024-11-30,2024-12-06,Gynecology,Fibroids,Surgery,D135,6,Private,8838,Referred,No,,East,Insurance Processing
+HV1131,P2389,56,Male,2024-05-06,2024-05-07,Obstetrics,Childbirth,Surgery,D118,1,Private,8631,Ongoing,Yes,2.0,North,Paid
+HV1132,P2104,31,Male,2024-08-16,2024-08-18,Cardiology,Heart Failure,Medication,D126,2,Private,652,Recovered,No,2.0,West,Insurance Processing
+HV1133,P2613,40,Female,2024-05-01,2024-05-02,Neurology,Stroke,Surgery,D127,1,Private,9770,Ongoing,No,5.0,East,Paid
+HV1134,P2353,86,Female,2024-09-25,2024-09-26,Gynecology,Ovarian Cyst,Observation,D110,1,Private,223,Recovered,Yes,4.0,Central,Insurance Processing
+HV1135,P2423,11,Female,2024-10-12,2024-10-14,Orthopedics,Knee Injury,Surgery,D117,2,Private,9554,Recovered,Yes,1.0,West,Pending
+HV1136,P2690,36,Male,2024-02-07,2024-02-08,Oncology,Colon Cancer,Surgery,D131,1,Private,9839,Recovered,Yes,,East,Paid
+HV1137,P2619,64,Male,2024-07-22,2024-07-24,Oncology,Colon Cancer,Therapy,D119,2,Private,1971,Ongoing,No,1.0,East,Pending
+HV1138,P2209,32,Female,2024-06-09,2024-06-11,Dermatology,Skin Infection,Surgery,D110,2,Private,6744,Recovered,No,2.0,East,Insurance Processing
+HV1139,P2252,57,Female,2024-10-08,2024-10-09,Gynecology,Ovarian Cyst,Observation,D132,1,Government,468,Recovered,Yes,5.0,Central,Paid
+HV1140,P2685,45,Male,2024-01-04,2024-01-06,Dermatology,Skin Infection,Surgery,D105,2,Government,6142,Recovered,No,,East,Paid
+HV1141,P2007,33,Female,2024-01-07,2024-01-10,Cardiology,Arrhythmia,Therapy,D102,3,Government,2263,Recovered,Yes,2.0,North,Insurance Processing
+HV1142,P2540,8,Female,2024-06-30,2024-07-04,Neurology,Migraine,Medication,D124,4,None,570,Recovered,Yes,,Central,Paid
+HV1143,P2416,48,Female,2024-07-12,2024-07-13,Obstetrics,Childbirth,Medication,D111,1,Private,544,Ongoing,Yes,2.0,East,Pending
+HV1144,P2048,30,Male,2024-12-16,2024-12-17,Neurology,Epilepsy,Medication,D112,1,None,422,Ongoing,No,1.0,West,Paid
+HV1145,P2578,42,Male,2024-10-17,2024-10-26,Dermatology,Dermatitis,Observation,D109,9,Government,277,Recovered,Yes,3.0,East,Pending
+HV1146,P2031,54,Female,2024-08-18,2024-08-19,Obstetrics,Childbirth,Therapy,D136,1,None,1260,Recovered,No,2.0,Central,Paid
+HV1147,P2275,60,Male,2024-07-13,2024-07-14,Orthopedics,Dislocation,Observation,D121,1,Private,257,Ongoing,Yes,2.0,Central,Paid
+HV1148,P2442,36,Female,2024-10-12,2024-10-14,Dermatology,Skin Infection,Medication,D106,2,Private,195,Recovered,No,4.0,Central,Insurance Processing
+HV1149,P2573,33,Male,2024-10-19,2024-10-22,Orthopedics,Dislocation,Observation,D111,3,Private,174,Recovered,No,3.0,East,Paid
+HV1150,P2370,22,Female,2024-05-06,2024-05-15,Obstetrics,Childbirth,Observation,D107,9,Private,417,Ongoing,No,3.0,East,Insurance Processing
+HV1151,P2609,61,Male,2024-06-02,2024-06-06,Gynecology,Fibroids,Observation,D121,4,Private,476,Recovered,Yes,3.0,East,Pending
+HV1152,P2403,83,Female,2024-02-28,2024-02-29,Oncology,Colon Cancer,Surgery,D136,1,Private,5591,Recovered,No,,East,Paid
+HV1153,P2649,63,Female,2024-05-03,2024-05-04,Neurology,Epilepsy,Surgery,D128,1,Government,6898,Recovered,No,5.0,Central,Pending
+HV1154,P2550,67,Male,2024-02-25,2024-02-26,Oncology,Colon Cancer,Therapy,D111,1,Government,2806,Referred,No,4.0,Central,Paid
+HV1155,P2101,32,Female,2024-04-23,2024-04-24,Oncology,Leukemia,Therapy,D126,1,Government,2910,Deceased,No,1.0,West,Pending
+HV1156,P2088,52,Male,2024-03-13,2024-03-14,Gynecology,Ovarian Cyst,Therapy,D130,1,Government,2478,Recovered,No,3.0,Central,Pending
+HV1157,P2046,58,Male,2024-01-12,2024-01-13,Gynecology,Fibroids,Surgery,D116,1,Government,4711,Recovered,No,,North,Paid
+HV1158,P2656,1,Female,2024-07-21,2024-07-22,Cardiology,Heart Failure,Observation,D138,1,Private,242,Ongoing,Yes,5.0,Central,Insurance Processing
+HV1159,P2192,26,Female,2024-06-15,2024-06-16,Oncology,Leukemia,Medication,D117,1,Government,601,Recovered,No,5.0,Central,Pending
+HV1160,P2361,74,Female,2024-11-12,2024-11-15,Orthopedics,Dislocation,Therapy,D140,3,Government,1048,Recovered,No,,North,Insurance Processing
+HV1161,P2398,19,Female,2024-11-01,2024-11-02,Orthopedics,Dislocation,Observation,D128,1,Private,430,Recovered,Yes,4.0,West,Paid
+HV1162,P2192,70,Female,2024-08-18,2024-08-20,Cardiology,Arrhythmia,Medication,D132,2,Private,493,Recovered,No,,East,Pending
+HV1163,P2172,19,Male,2024-10-16,2024-10-21,Cardiology,Heart Failure,Therapy,D103,5,Private,1682,Recovered,No,5.0,Central,Insurance Processing
+HV1164,P2117,27,Female,2024-10-05,2024-10-06,Gynecology,Fibroids,Observation,D135,1,Private,434,Recovered,Yes,4.0,West,Pending
+HV1165,P2090,53,Female,2024-03-01,2024-03-04,Oncology,Lung Cancer,Therapy,D140,3,Government,1070,Ongoing,No,5.0,West,Insurance Processing
+HV1166,P2552,46,Male,2024-06-14,2024-06-22,Neurology,Migraine,Therapy,D133,8,None,890,Ongoing,No,,North,Insurance Processing
+HV1167,P2136,38,Male,2024-03-15,2024-03-17,Gynecology,Fibroids,Observation,D132,2,Private,312,Recovered,Yes,4.0,West,Insurance Processing
+HV1168,P2378,73,Female,2024-09-06,2024-09-07,Gynecology,Fibroids,Medication,D130,1,Government,466,Referred,Yes,4.0,West,Pending
+HV1169,P2291,22,Female,2024-10-07,2024-10-09,Orthopedics,Dislocation,Observation,D122,2,None,420,Recovered,Yes,2.0,East,Pending
+HV1170,P2001,42,Female,2024-04-13,2024-04-22,Orthopedics,Dislocation,Therapy,D111,9,None,882,Recovered,Yes,1.0,East,Insurance Processing
+HV1171,P2313,55,Male,2024-08-07,2024-08-14,Emergency,Malaria,Medication,D114,7,Government,235,Recovered,No,1.0,East,Insurance Processing
+HV1172,P2136,50,Female,2024-02-06,2024-02-07,Oncology,Leukemia,Medication,D107,1,Private,476,Ongoing,Yes,,North,Paid
+HV1173,P2544,33,Male,2024-11-08,2024-11-09,Orthopedics,Knee Injury,Therapy,D114,1,Government,2186,Recovered,Yes,2.0,Central,Insurance Processing
+HV1174,P2394,34,Female,2024-08-07,2024-08-08,Gynecology,Fibroids,Surgery,D118,1,Government,6923,Recovered,Yes,,West,Paid
+HV1175,P2531,60,Male,2024-07-19,2024-07-22,Neurology,Epilepsy,Medication,D116,3,Government,215,Recovered,Yes,3.0,West,Paid
+HV1176,P2397,61,Female,2024-07-06,2024-07-09,Orthopedics,Knee Injury,Medication,D102,3,Government,114,Referred,No,5.0,West,Insurance Processing
+HV1177,P2514,50,Female,2024-08-04,2024-08-08,Dermatology,Skin Infection,Surgery,D118,4,Private,9544,Recovered,No,4.0,Central,Pending
+HV1178,P2448,30,Male,2024-01-30,2024-02-03,Oncology,Lung Cancer,Observation,D108,4,Government,441,Recovered,Yes,1.0,North,Insurance Processing
+HV1179,P2012,34,Male,2024-09-11,2024-09-15,Gynecology,Ovarian Cyst,Surgery,D124,4,Private,8319,Recovered,Yes,3.0,Central,Pending
+HV1180,P2467,44,Female,2024-01-29,2024-01-30,Obstetrics,Childbirth,Therapy,D111,1,Private,2850,Recovered,Yes,1.0,Central,Paid
+HV1181,P2048,47,Female,2024-07-05,2024-07-09,Dermatology,Skin Infection,Surgery,D103,4,Government,3839,Ongoing,No,3.0,Central,Insurance Processing
+HV1182,P2382,54,Male,2024-09-14,2024-09-19,Cardiology,Heart Failure,Surgery,D134,5,None,9184,Ongoing,No,3.0,Central,Insurance Processing
+HV1183,P2468,41,Male,2024-07-07,2024-07-08,Oncology,Leukemia,Therapy,D140,1,Private,2923,Ongoing,Yes,2.0,Central,Pending
+HV1184,P2025,59,Male,2024-10-04,2024-10-05,Gynecology,Fibroids,Therapy,D101,1,Government,1759,Recovered,No,1.0,North,Insurance Processing
+HV1185,P2287,59,Male,2024-01-23,2024-01-29,Oncology,Colon Cancer,Observation,D124,6,Government,358,Ongoing,Yes,5.0,Central,Pending
+HV1186,P2679,68,Male,2024-05-01,2024-05-02,Neurology,Migraine,Therapy,D126,1,Government,1802,Referred,Yes,5.0,Central,Paid
+HV1187,P2109,45,Male,2024-08-18,2024-08-24,Obstetrics,Childbirth,Observation,D108,6,Government,337,Recovered,Yes,,West,Insurance Processing
+HV1188,P2618,50,Male,2024-04-20,2024-04-29,Gynecology,Fibroids,Medication,D116,9,None,505,Ongoing,Yes,1.0,East,Pending
+HV1189,P2570,42,Male,2024-02-18,2024-02-20,Obstetrics,Childbirth,Surgery,D108,2,Private,3623,Recovered,Yes,5.0,West,Paid
+HV1190,P2023,30,Male,2024-04-11,2024-04-12,Obstetrics,Childbirth,Medication,D122,1,Private,572,Recovered,No,1.0,East,Insurance Processing
+HV1191,P2437,82,Male,2024-06-30,2024-07-01,Oncology,Lung Cancer,Therapy,D118,1,Private,641,Recovered,No,4.0,East,Paid
+HV1192,P2090,65,Female,2024-07-15,2024-07-19,Orthopedics,Knee Injury,Surgery,D134,4,Private,5133,Recovered,No,3.0,West,Pending
+HV1193,P2277,59,Male,2024-01-14,2024-01-18,Gynecology,Fibroids,Medication,D118,4,Private,583,Recovered,Yes,1.0,North,Insurance Processing
+HV1194,P2247,44,Female,2024-09-30,2024-10-01,Cardiology,Heart Failure,Observation,D123,1,None,403,Recovered,No,5.0,Central,Insurance Processing
+HV1195,P2361,28,Male,2024-10-15,2024-10-17,Oncology,Leukemia,Therapy,D112,2,Government,730,Recovered,Yes,3.0,North,Paid
+HV1196,P2349,62,Male,2024-06-14,2024-06-15,Cardiology,Hypertension,Surgery,D138,1,Government,8934,Referred,No,,East,Insurance Processing
+HV1197,P2104,42,Female,2024-06-03,2024-06-04,Gynecology,Fibroids,Surgery,D128,1,Government,3427,Recovered,No,2.0,North,Pending
+HV1198,P2315,52,Female,2024-03-06,2024-03-08,Orthopedics,Dislocation,Medication,D137,2,Private,681,Ongoing,Yes,,Central,Pending
+HV1199,P2145,34,Female,2024-02-09,2024-02-10,Oncology,Leukemia,Therapy,D111,1,Government,1875,Recovered,Yes,3.0,West,Paid
+HV1200,P2002,49,Male,2024-07-16,2024-07-17,Obstetrics,Childbirth,Surgery,D127,1,Government,6473,Recovered,Yes,2.0,East,Paid
+HV1201,P2035,35,Female,2024-01-11,2024-01-16,Gynecology,Ovarian Cyst,Medication,D105,5,Private,484,Ongoing,Yes,3.0,East,Insurance Processing
+HV1202,P2032,36,Female,2024-11-30,2024-12-01,Orthopedics,Dislocation,Observation,D111,1,Private,197,Recovered,No,,West,Pending
+HV1203,P2244,49,Male,2024-01-26,2024-02-07,Dermatology,Dermatitis,Surgery,D104,12,Private,4412,Recovered,Yes,1.0,North,Paid
+HV1204,P2654,18,Female,2024-02-11,2024-02-16,Obstetrics,Childbirth,Therapy,D126,5,Government,1585,Recovered,No,3.0,North,Pending
+HV1205,P2046,19,Female,2024-08-13,2024-08-21,Obstetrics,Childbirth,Surgery,D118,8,Government,2702,Recovered,Yes,5.0,Central,Pending
+HV1206,P2536,32,Female,2024-10-01,2024-10-05,Obstetrics,Childbirth,Observation,D120,4,Private,364,Recovered,Yes,1.0,East,Paid
+HV1207,P2172,41,Male,2024-04-08,2024-04-10,Orthopedics,Fracture,Observation,D106,2,None,421,Recovered,No,,Central,Paid
+HV1208,P2398,60,Female,2024-10-09,2024-10-10,Gynecology,Ovarian Cyst,Observation,D101,1,Government,500,Recovered,Yes,5.0,Central,Paid
+HV1209,P2577,42,Male,2024-05-26,2024-05-28,Gynecology,Ovarian Cyst,Therapy,D125,2,Government,2994,Recovered,No,1.0,East,Pending
+HV1210,P2244,44,Male,2024-08-31,2024-09-01,Neurology,Migraine,Medication,D122,1,None,410,Recovered,Yes,2.0,West,Insurance Processing
+HV1211,P2454,39,Female,2024-05-17,2024-05-18,Dermatology,Skin Infection,Surgery,D129,1,Private,8221,Ongoing,Yes,1.0,West,Insurance Processing
+HV1212,P2519,50,Female,2024-03-10,2024-03-14,Cardiology,Heart Failure,Surgery,D113,4,None,5739,Recovered,No,3.0,East,Insurance Processing
+HV1213,P2407,30,Male,2024-12-14,2024-12-16,Cardiology,Heart Failure,Therapy,D132,2,Government,2443,Recovered,No,,Central,Pending
+HV1214,P2029,43,Female,2024-01-26,2024-01-27,Orthopedics,Dislocation,Surgery,D115,1,Government,4204,Recovered,Yes,4.0,North,Insurance Processing
+HV1215,P2178,52,Male,2024-04-24,2024-04-30,Neurology,Epilepsy,Therapy,D118,6,Private,1928,Recovered,No,5.0,Central,Paid
+HV1216,P2524,49,Female,2024-10-14,2024-10-15,Neurology,Migraine,Medication,D131,1,Private,383,Recovered,No,2.0,North,Insurance Processing
+HV1217,P2247,45,Male,2024-11-03,2024-11-05,Dermatology,Dermatitis,Surgery,D102,2,Government,9429,Recovered,Yes,3.0,North,Insurance Processing
+HV1218,P2548,45,Female,2024-12-09,2024-12-11,Gynecology,Ovarian Cyst,Surgery,D136,2,Private,3048,Ongoing,Yes,,West,Insurance Processing
+HV1219,P2092,53,Male,2024-06-30,2024-07-03,Oncology,Colon Cancer,Therapy,D127,3,Government,2022,Ongoing,No,1.0,Central,Pending
+HV1220,P2200,83,Male,2024-12-14,2024-12-16,Dermatology,Dermatitis,Observation,D104,2,None,275,Recovered,No,2.0,West,Insurance Processing
+HV1221,P2185,31,Male,2024-09-06,2024-09-12,Gynecology,Fibroids,Therapy,D104,6,Private,1357,Ongoing,No,1.0,North,Insurance Processing
+HV1222,P2445,84,Female,2024-07-25,2024-07-26,Dermatology,Dermatitis,Observation,D101,1,Private,107,Ongoing,Yes,1.0,Central,Insurance Processing
+HV1223,P2255,30,Male,2024-12-21,2024-12-22,Gynecology,Ovarian Cyst,Surgery,D107,1,Private,3368,Recovered,No,4.0,West,Pending
+HV1224,P2138,6,Female,2024-09-07,2024-09-09,Gynecology,Fibroids,Surgery,D126,2,Private,3730,Recovered,Yes,3.0,Central,Pending
+HV1225,P2656,35,Female,2024-09-30,2024-10-01,Cardiology,Hypertension,Medication,D102,1,Private,218,Recovered,Yes,2.0,Central,Pending
+HV1226,P2431,51,Male,2024-12-05,2024-12-06,Neurology,Epilepsy,Surgery,D127,1,None,7888,Recovered,Yes,4.0,North,Insurance Processing
+HV1227,P2205,78,Female,2024-09-24,2024-09-29,Oncology,Leukemia,Observation,D119,5,Private,206,Recovered,Yes,1.0,Central,Insurance Processing
+HV1228,P2092,28,Male,2024-10-20,2024-10-27,Obstetrics,Childbirth,Medication,D133,7,Private,203,Referred,No,4.0,Central,Paid
+HV1229,P2179,53,Male,2024-05-28,2024-06-02,Gynecology,Ovarian Cyst,Observation,D108,5,Private,170,Recovered,No,4.0,West,Insurance Processing
+HV1230,P2096,21,Female,2024-06-24,2024-07-02,Orthopedics,Fracture,Observation,D126,8,None,344,Recovered,Yes,1.0,North,Insurance Processing
+HV1231,P2061,77,Male,2024-02-23,2024-02-29,Dermatology,Dermatitis,Observation,D112,6,Government,450,Recovered,Yes,4.0,East,Paid
+HV1232,P2422,66,Female,2024-01-24,2024-02-06,Emergency,Appendicitis,Therapy,D101,13,Government,2649,Recovered,No,5.0,Central,Pending
+HV1233,P2678,36,Male,2024-09-03,2024-09-04,Gynecology,Ovarian Cyst,Surgery,D136,1,None,2095,Recovered,No,4.0,North,Paid
+HV1234,P2504,14,Female,2024-05-03,2024-05-13,Gynecology,Ovarian Cyst,Medication,D133,10,Private,758,Recovered,No,1.0,East,Pending
+HV1235,P2324,69,Male,2024-09-11,2024-09-16,Cardiology,Hypertension,Observation,D127,5,Private,146,Referred,No,5.0,North,Insurance Processing
+HV1236,P2688,42,Female,2024-06-23,2024-06-24,Gynecology,Fibroids,Surgery,D130,1,Private,5875,Recovered,Yes,1.0,North,Paid
+HV1237,P2350,67,Female,2024-11-20,2024-11-21,Neurology,Epilepsy,Therapy,D107,1,Private,2516,Recovered,No,5.0,North,Paid
+HV1238,P2124,45,Female,2024-04-20,2024-04-24,Obstetrics,Childbirth,Therapy,D107,4,Government,2911,Recovered,Yes,4.0,Central,Insurance Processing
+HV1239,P2050,45,Female,2024-10-26,2024-11-03,Obstetrics,Childbirth,Surgery,D109,8,Private,6965,Recovered,Yes,3.0,East,Pending
+HV1240,P2302,36,Female,2024-03-09,2024-03-10,Orthopedics,Knee Injury,Therapy,D136,1,None,1390,Recovered,No,,North,Insurance Processing
+HV1241,P2666,56,Male,2024-09-14,2024-09-15,Gynecology,Fibroids,Therapy,D136,1,Government,2209,Recovered,No,1.0,Central,Paid
+HV1242,P2391,47,Male,2024-01-28,2024-01-29,Cardiology,Heart Failure,Therapy,D111,1,None,1526,Recovered,Yes,3.0,East,Paid
+HV1243,P2631,54,Male,2024-11-27,2024-11-30,Dermatology,Skin Infection,Therapy,D104,3,None,2206,Recovered,Yes,,West,Paid
+HV1244,P2636,17,Female,2024-04-25,2024-04-26,Gynecology,Fibroids,Surgery,D119,1,Private,3531,Recovered,Yes,4.0,West,Insurance Processing
+HV1245,P2271,67,Male,2024-03-23,2024-03-26,Neurology,Stroke,Therapy,D130,3,Government,663,Ongoing,No,4.0,West,Paid
+HV1246,P2326,72,Male,2024-04-04,2024-04-06,Emergency,Food Poisoning,Observation,D135,2,Government,209,Recovered,No,2.0,East,Insurance Processing
+HV1247,P2665,47,Male,2024-02-28,2024-03-04,Gynecology,Ovarian Cyst,Surgery,D140,5,None,7591,Ongoing,Yes,4.0,West,Insurance Processing
+HV1248,P2290,82,Male,2024-09-21,2024-09-27,Gynecology,Ovarian Cyst,Observation,D103,6,Private,363,Recovered,Yes,,Central,Paid
+HV1249,P2687,76,Male,2024-12-16,2024-12-17,Dermatology,Skin Infection,Surgery,D135,1,None,8118,Recovered,No,1.0,Central,Paid
+HV1250,P2056,56,Male,2024-05-08,2024-05-11,Emergency,Food Poisoning,Therapy,D127,3,Private,6468,Recovered,Yes,,Central,Insurance Processing
+HV1251,P2075,69,Female,2024-09-14,2024-09-15,Emergency,Appendicitis,Therapy,D139,1,Private,2062,Recovered,Yes,2.0,East,Insurance Processing
+HV1252,P2303,64,Male,2024-06-01,2024-06-02,Gynecology,Fibroids,Surgery,D108,1,Private,5228,Recovered,Yes,,West,Paid
+HV1253,P2423,13,Male,2024-03-23,2024-03-24,Orthopedics,Fracture,Therapy,D113,1,Private,2823,Referred,No,,Central,Pending
+HV1254,P2688,40,Male,2024-05-08,2024-05-10,Emergency,Food Poisoning,Observation,D122,2,Private,245,Ongoing,No,4.0,East,Pending
+HV1255,P2632,57,Female,2024-12-21,2024-12-25,Orthopedics,Dislocation,Therapy,D121,4,None,519,Recovered,No,3.0,West,Paid
+HV1256,P2696,74,Female,2024-09-02,2024-09-07,Obstetrics,Childbirth,Therapy,D120,5,Government,1219,Recovered,Yes,5.0,North,Pending
+HV1257,P2642,20,Male,2024-02-08,2024-02-16,Cardiology,Hypertension,Observation,D138,8,Private,378,Recovered,Yes,3.0,East,Paid
+HV1258,P2604,14,Female,2024-03-09,2024-03-10,Obstetrics,Childbirth,Observation,D124,1,Government,414,Ongoing,Yes,4.0,North,Paid
+HV1259,P2580,44,Male,2024-09-04,2024-09-15,Gynecology,Fibroids,Surgery,D132,11,Private,3917,Recovered,No,4.0,East,Pending
+HV1260,P2048,7,Male,2024-11-28,2024-12-01,Gynecology,Fibroids,Therapy,D117,3,Government,1212,Recovered,Yes,5.0,West,Pending
+HV1261,P2229,43,Female,2024-06-29,2024-06-30,Gynecology,Ovarian Cyst,Observation,D139,1,Private,217,Recovered,Yes,2.0,North,Paid
+HV1262,P2371,51,Male,2024-12-04,2024-12-05,Oncology,Leukemia,Therapy,D108,1,Government,2462,Ongoing,Yes,2.0,Central,Paid
+HV1263,P2588,28,Male,2024-03-09,2024-03-10,Cardiology,Heart Failure,Medication,D111,1,Private,284,Recovered,Yes,,West,Paid
+HV1264,P2222,43,Female,2024-11-06,2024-11-09,Obstetrics,Childbirth,Surgery,D115,3,None,8509,Recovered,No,2.0,West,Pending
+HV1265,P2611,62,Male,2024-04-27,2024-04-28,Dermatology,Dermatitis,Surgery,D107,1,Private,7606,Recovered,Yes,4.0,Central,Insurance Processing
+HV1266,P2516,35,Male,2024-02-17,2024-02-18,Obstetrics,Childbirth,Medication,D128,1,Government,479,Referred,No,4.0,West,Insurance Processing
+HV1267,P2590,30,Male,2024-08-05,2024-08-06,Orthopedics,Knee Injury,Observation,D115,1,None,378,Recovered,Yes,5.0,Central,Insurance Processing
+HV1268,P2008,43,Female,2024-12-01,2024-12-02,Oncology,Colon Cancer,Therapy,D127,1,Private,2245,Ongoing,No,5.0,West,Insurance Processing
+HV1269,P2283,26,Female,2024-04-14,2024-04-15,Dermatology,Dermatitis,Surgery,D124,1,Government,4512,Recovered,Yes,,Central,Insurance Processing
+HV1270,P2236,80,Female,2024-12-24,2024-12-25,Orthopedics,Fracture,Surgery,D133,1,Private,7030,Recovered,No,,Central,Paid
+HV1271,P2149,45,Female,2024-11-03,2024-11-07,Dermatology,Skin Infection,Medication,D117,4,Private,181,Deceased,No,,Central,Paid
+HV1272,P2656,32,Female,2024-08-12,2024-08-18,Cardiology,Heart Failure,Therapy,D113,6,Private,2591,Recovered,Yes,3.0,North,Insurance Processing
+HV1273,P2001,48,Male,2024-02-14,2024-02-21,Neurology,Migraine,Therapy,D126,7,Private,2620,Ongoing,No,,West,Pending
+HV1274,P2284,42,Male,2024-11-06,2024-11-10,Oncology,Leukemia,Observation,D137,4,Private,154,Recovered,No,1.0,West,Insurance Processing
+HV1275,P2589,41,Female,2024-12-21,2024-12-25,Obstetrics,Childbirth,Observation,D116,4,Government,400,Recovered,No,1.0,East,Insurance Processing
+HV1276,P2226,35,Male,2024-06-10,2024-06-11,Dermatology,Dermatitis,Medication,D117,1,Private,195,Recovered,Yes,4.0,West,Pending
+HV1277,P2224,34,Female,2024-04-03,2024-04-04,Oncology,Leukemia,Surgery,D116,1,Government,3877,Ongoing,No,2.0,Central,Paid
+HV1278,P2081,17,Female,2024-11-10,2024-11-11,Cardiology,Hypertension,Observation,D124,1,Government,240,Deceased,No,4.0,North,Insurance Processing
+HV1279,P2132,69,Male,2024-09-26,2024-09-30,Dermatology,Dermatitis,Medication,D133,4,Private,278,Recovered,Yes,1.0,North,Pending
+HV1280,P2595,55,Male,2024-06-15,2024-06-17,Gynecology,Ovarian Cyst,Surgery,D136,2,Private,9852,Recovered,No,2.0,East,Insurance Processing
+HV1281,P2382,50,Female,2024-07-24,2024-07-26,Neurology,Migraine,Surgery,D137,2,Private,8669,Ongoing,No,4.0,North,Paid
+HV1282,P2154,42,Female,2024-01-05,2024-01-07,Orthopedics,Knee Injury,Observation,D109,2,None,468,Recovered,No,5.0,Central,Pending
+HV1283,P2102,27,Male,2024-01-31,2024-02-01,Oncology,Leukemia,Observation,D107,1,Private,284,Referred,No,3.0,Central,Pending
+HV1284,P2125,31,Female,2024-12-13,2024-12-14,Oncology,Colon Cancer,Surgery,D119,1,Private,5993,Ongoing,No,5.0,West,Pending
+HV1285,P2647,19,Male,2024-03-26,2024-03-27,Gynecology,Ovarian Cyst,Observation,D105,1,Private,262,Recovered,No,3.0,East,Pending
+HV1286,P2602,33,Female,2024-07-30,2024-07-31,Orthopedics,Fracture,Medication,D109,1,Government,777,Recovered,Yes,4.0,Central,Paid
+HV1287,P2066,25,Female,2024-10-07,2024-10-13,Cardiology,Hypertension,Observation,D134,6,Government,416,Recovered,No,3.0,North,Paid
+HV1288,P2291,75,Female,2024-11-16,2024-11-20,Orthopedics,Fracture,Surgery,D102,4,Private,9079,Ongoing,No,5.0,East,Paid
+HV1289,P2553,60,Male,2024-10-29,2024-10-31,Obstetrics,Childbirth,Therapy,D123,2,Government,866,Recovered,No,1.0,Central,Insurance Processing
+HV1290,P2140,46,Female,2024-05-26,2024-05-28,Obstetrics,Childbirth,Observation,D131,2,Private,218,Recovered,Yes,4.0,East,Pending
+HV1291,P2256,29,Male,2024-11-26,2024-11-30,Dermatology,Dermatitis,Surgery,D117,4,Private,6232,Recovered,No,3.0,West,Pending
+HV1292,P2193,26,Male,2024-04-03,2024-04-04,Orthopedics,Knee Injury,Medication,D130,1,Government,1134,Referred,Yes,2.0,Central,Pending
+HV1293,P2276,41,Male,2024-08-12,2024-08-13,Cardiology,Heart Failure,Medication,D110,1,Private,322,Recovered,No,4.0,Central,Pending
+HV1294,P2083,61,Male,2024-01-29,2024-01-30,Neurology,Migraine,Medication,D135,1,Government,296,Recovered,Yes,4.0,East,Paid
+HV1295,P2035,79,Male,2024-08-23,2024-09-04,Emergency,Food Poisoning,Observation,D125,12,Government,422,Recovered,Yes,3.0,East,Insurance Processing
+HV1296,P2306,19,Male,2024-07-03,2024-07-04,Cardiology,Heart Failure,Medication,D116,1,Government,432,Recovered,Yes,1.0,Central,Insurance Processing
+HV1297,P2487,55,Male,2024-07-09,2024-07-10,Emergency,Food Poisoning,Surgery,D132,1,Private,9625,Recovered,Yes,,Central,Paid
+HV1298,P2500,33,Male,2024-06-11,2024-06-12,Gynecology,Ovarian Cyst,Surgery,D102,1,Government,4053,Recovered,No,5.0,East,Paid
+HV1299,P2581,36,Male,2024-10-05,2024-10-06,Gynecology,Ovarian Cyst,Observation,D118,1,None,135,Recovered,No,5.0,West,Pending
+HV1300,P2001,45,Female,2024-04-04,2024-04-05,Cardiology,Arrhythmia,Surgery,D121,1,Government,8709,Recovered,Yes,5.0,West,Pending
+HV1301,P2420,30,Female,2024-02-26,2024-03-09,Emergency,Malaria,Medication,D109,12,Private,132,Recovered,No,,East,Insurance Processing
+HV1302,P2639,40,Female,2024-01-26,2024-02-05,Gynecology,Fibroids,Medication,D101,10,None,313,Recovered,No,5.0,East,Pending
+HV1303,P2060,28,Female,2024-09-27,2024-10-03,Cardiology,Hypertension,Therapy,D105,6,None,897,Recovered,Yes,5.0,North,Insurance Processing
+HV1304,P2641,34,Male,2024-10-12,2024-10-13,Dermatology,Skin Infection,Therapy,D130,1,Government,926,Recovered,Yes,5.0,East,Pending
+HV1305,P2323,58,Female,2024-07-09,2024-07-12,Dermatology,Dermatitis,Therapy,D139,3,Private,1376,Recovered,No,4.0,East,Pending
+HV1306,P2001,46,Male,2024-05-25,2024-05-27,Cardiology,Heart Failure,Therapy,D101,2,Private,1379,Ongoing,No,5.0,North,Paid
+HV1307,P2039,58,Female,2024-07-01,2024-07-02,Orthopedics,Fracture,Therapy,D124,1,None,1454,Recovered,Yes,,Central,Insurance Processing
+HV1308,P2333,33,Female,2024-03-29,2024-03-30,Obstetrics,Childbirth,Therapy,D103,1,Government,2062,Ongoing,No,4.0,East,Paid
+HV1309,P2233,55,Male,2024-11-20,2024-11-21,Dermatology,Skin Infection,Therapy,D134,1,Private,2813,Recovered,Yes,,East,Pending
+HV1310,P2610,15,Male,2024-04-23,2024-04-24,Dermatology,Dermatitis,Observation,D110,1,Private,481,Recovered,Yes,4.0,East,Insurance Processing
+HV1311,P2134,45,Male,2024-09-03,2024-09-05,Oncology,Leukemia,Observation,D137,2,Private,224,Ongoing,No,,Central,Paid
+HV1312,P2688,56,Female,2024-08-04,2024-08-05,Gynecology,Ovarian Cyst,Surgery,D121,1,Private,8305,Recovered,No,5.0,North,Pending
+HV1313,P2046,15,Male,2024-04-12,2024-04-13,Gynecology,Fibroids,Medication,D108,1,Government,1044,Recovered,No,1.0,West,Paid
+HV1314,P2551,33,Male,2024-04-14,2024-04-15,Neurology,Epilepsy,Observation,D140,1,Government,398,Recovered,No,2.0,Central,Pending
+HV1315,P2206,45,Female,2024-01-28,2024-01-29,Obstetrics,Childbirth,Medication,D125,1,Government,4668,Recovered,No,5.0,Central,Pending
+HV1316,P2497,63,Male,2024-04-05,2024-04-06,Oncology,Colon Cancer,Observation,D136,1,None,371,Recovered,Yes,1.0,West,Insurance Processing
+HV1317,P2361,34,Female,2024-11-16,2024-11-19,Neurology,Stroke,Therapy,D104,3,Government,620,Recovered,No,4.0,North,Paid
+HV1318,P2392,54,Male,2024-08-01,2024-08-02,Oncology,Colon Cancer,Surgery,D128,1,None,5679,Recovered,Yes,2.0,West,Insurance Processing
+HV1319,P2537,70,Male,2024-08-08,2024-08-09,Orthopedics,Dislocation,Surgery,D121,1,Private,3508,Recovered,Yes,3.0,East,Pending
+HV1320,P2311,55,Female,2024-11-22,2024-11-27,Neurology,Stroke,Surgery,D107,5,Private,6961,Recovered,Yes,,Central,Pending
+HV1321,P2082,41,Female,2024-03-09,2024-03-19,Obstetrics,Childbirth,Surgery,D125,10,Government,3583,Ongoing,Yes,3.0,East,Paid
+HV1322,P2688,51,Male,2024-04-14,2024-04-22,Emergency,Food Poisoning,Observation,D140,8,Government,226,Ongoing,No,,West,Pending
+HV1323,P2627,34,Male,2024-09-23,2024-09-24,Emergency,Severe Dehydration,Observation,D103,1,None,302,Recovered,No,5.0,Central,Paid
+HV1324,P2299,46,Female,2024-07-22,2024-07-24,Neurology,Migraine,Observation,D111,2,Private,364,Recovered,No,1.0,Central,Paid
+HV1325,P2600,42,Male,2024-07-20,2024-07-25,Dermatology,Dermatitis,Observation,D102,5,Private,332,Recovered,Yes,,Central,Paid
+HV1326,P2117,51,Female,2024-11-20,2024-11-21,Gynecology,Fibroids,Observation,D133,1,Government,294,Recovered,No,5.0,North,Paid
+HV1327,P2149,37,Male,2024-12-30,2024-12-31,Cardiology,Heart Attack,Therapy,D120,1,Government,1682,Recovered,Yes,1.0,West,Paid
+HV1328,P2470,52,Female,2024-09-12,2024-09-15,Cardiology,Heart Attack,Surgery,D114,3,Government,5359,Recovered,Yes,5.0,West,Insurance Processing
+HV1329,P2644,37,Male,2024-01-26,2024-01-28,Orthopedics,Fracture,Medication,D123,2,Private,133,Ongoing,Yes,1.0,East,Paid
+HV1330,P2166,60,Female,2024-11-08,2024-11-09,Orthopedics,Knee Injury,Therapy,D103,1,Private,1822,Ongoing,Yes,3.0,East,Paid
+HV1331,P2125,39,Female,2024-06-17,2024-06-22,Dermatology,Skin Infection,Surgery,D140,5,Private,2718,Recovered,No,4.0,West,Pending
+HV1332,P2539,8,Female,2024-03-07,2024-03-08,Obstetrics,Childbirth,Observation,D112,1,None,100,Recovered,Yes,,North,Insurance Processing
+HV1333,P2425,26,Female,2024-01-24,2024-01-25,Gynecology,Ovarian Cyst,Surgery,D101,1,Government,8473,Recovered,No,1.0,Central,Insurance Processing
+HV1334,P2342,45,Female,2024-07-21,2024-07-22,Cardiology,Heart Failure,Surgery,D122,1,None,9505,Recovered,No,2.0,East,Insurance Processing
+HV1335,P2344,75,Female,2024-07-30,2024-08-05,Cardiology,Arrhythmia,Therapy,D136,6,Government,2865,Ongoing,No,1.0,North,Pending
+HV1336,P2032,59,Female,2024-07-11,2024-07-18,Orthopedics,Dislocation,Observation,D112,7,Government,116,Recovered,Yes,3.0,East,Pending
+HV1337,P2222,5,Female,2024-03-30,2024-04-01,Emergency,Appendicitis,Medication,D113,2,None,554,Recovered,No,4.0,West,Pending
+HV1338,P2147,18,Male,2024-09-21,2024-09-22,Orthopedics,Fracture,Medication,D130,1,Private,634,Recovered,Yes,3.0,East,Paid
+HV1339,P2106,65,Female,2024-01-12,2024-01-16,Neurology,Epilepsy,Surgery,D121,4,Private,6360,Recovered,No,2.0,North,Pending
+HV1340,P2118,56,Male,2024-11-14,2024-11-20,Emergency,Food Poisoning,Therapy,D136,6,Private,1660,Recovered,No,5.0,East,Paid
+HV1341,P2134,85,Male,2024-08-29,2024-09-02,Cardiology,Hypertension,Observation,D104,4,Private,405,Recovered,No,5.0,West,Pending
+HV1342,P2341,36,Male,2024-12-31,2025-01-01,Emergency,Severe Dehydration,Surgery,D106,1,None,5732,Recovered,No,4.0,North,Paid
+HV1343,P2148,29,Female,2024-07-05,2024-07-09,Dermatology,Skin Infection,Therapy,D121,4,Government,767,Recovered,Yes,3.0,West,Insurance Processing
+HV1344,P2589,46,Male,2024-09-17,2024-09-21,Emergency,Severe Dehydration,Medication,D121,4,Government,172,Recovered,Yes,5.0,North,Pending
+HV1345,P2394,36,Male,2024-06-23,2024-06-29,Oncology,Colon Cancer,Observation,D128,6,Government,220,Recovered,No,1.0,East,Pending
+HV1346,P2569,63,Male,2024-08-15,2024-08-16,Orthopedics,Knee Injury,Observation,D105,1,Government,353,Recovered,Yes,2.0,Central,Paid
+HV1347,P2677,35,Male,2024-08-19,2024-08-24,Neurology,Migraine,Observation,D113,5,Private,447,Referred,No,,West,Paid
+HV1348,P2597,40,Male,2024-11-09,2024-11-13,Dermatology,Skin Infection,Therapy,D104,4,Private,717,Referred,Yes,3.0,Central,Paid
+HV1349,P2443,27,Female,2024-11-16,2024-11-17,Gynecology,Ovarian Cyst,Observation,D125,1,Private,171,Recovered,No,4.0,North,Pending
+HV1350,P2687,58,Male,2024-03-09,2024-03-12,Cardiology,Hypertension,Medication,D110,3,Government,598,Recovered,No,4.0,East,Insurance Processing
+HV1351,P2185,28,Female,2024-09-17,2024-09-20,Dermatology,Dermatitis,Observation,D123,3,Private,395,Recovered,No,4.0,West,Paid
+HV1352,P2039,52,Female,2024-12-26,2024-12-27,Gynecology,Fibroids,Observation,D106,1,Private,364,Ongoing,Yes,2.0,East,Insurance Processing
+HV1353,P2680,78,Male,2024-12-16,2024-12-17,Neurology,Epilepsy,Medication,D122,1,Government,111,Recovered,No,4.0,West,Pending
+HV1354,P2297,12,Male,2024-01-19,2024-01-20,Neurology,Epilepsy,Therapy,D104,1,Government,1192,Recovered,Yes,3.0,East,Paid
+HV1355,P2130,71,Male,2024-05-22,2024-05-30,Neurology,Stroke,Therapy,D118,8,None,956,Recovered,No,3.0,North,Pending
+HV1356,P2242,50,Female,2024-04-02,2024-04-04,Cardiology,Arrhythmia,Medication,D110,2,Government,257,Recovered,No,,North,Paid
+HV1357,P2592,24,Female,2024-01-28,2024-01-30,Neurology,Stroke,Medication,D111,2,Government,587,Ongoing,Yes,4.0,East,Pending
+HV1358,P2269,46,Male,2024-09-28,2024-10-01,Dermatology,Skin Infection,Therapy,D129,3,Private,2671,Recovered,No,4.0,West,Pending
+HV1359,P2277,58,Female,2024-02-20,2024-02-27,Neurology,Epilepsy,Observation,D130,7,Government,199,Recovered,Yes,3.0,Central,Insurance Processing
+HV1360,P2009,30,Male,2024-01-07,2024-01-09,Dermatology,Skin Infection,Medication,D129,2,Private,390,Recovered,Yes,5.0,Central,Insurance Processing
+HV1361,P2123,53,Male,2024-11-05,2024-11-07,Orthopedics,Knee Injury,Surgery,D108,2,Government,5825,Recovered,No,4.0,West,Pending
+HV1362,P2166,73,Male,2024-05-21,2024-05-29,Cardiology,Heart Attack,Observation,D122,8,None,325,Referred,Yes,5.0,East,Paid
+HV1363,P2661,35,Female,2024-02-25,2024-03-03,Orthopedics,Dislocation,Observation,D114,7,Government,232,Recovered,No,4.0,Central,Pending
+HV1364,P2153,27,Male,2024-01-20,2024-02-01,Dermatology,Dermatitis,Surgery,D122,12,None,6222,Recovered,No,4.0,Central,Insurance Processing
+HV1365,P2232,42,Male,2024-07-15,2024-07-20,Obstetrics,Childbirth,Therapy,D122,5,Government,726,Recovered,No,1.0,East,Pending
+HV1366,P2664,46,Male,2024-03-31,2024-04-02,Cardiology,Heart Attack,Surgery,D120,2,Government,5985,Recovered,Yes,2.0,Central,Paid
+HV1367,P2026,64,Male,2024-09-07,2024-09-08,Dermatology,Skin Infection,Therapy,D132,1,Government,567,Ongoing,Yes,4.0,Central,Paid
+HV1368,P2670,42,Female,2024-12-13,2024-12-17,Orthopedics,Dislocation,Surgery,D105,4,Private,7356,Ongoing,Yes,2.0,North,Paid
+HV1369,P2177,37,Male,2024-06-06,2024-06-07,Emergency,Severe Dehydration,Surgery,D138,1,Private,6072,Recovered,Yes,4.0,West,Insurance Processing
+HV1370,P2695,26,Female,2024-06-15,2024-06-17,Emergency,Food Poisoning,Therapy,D114,2,Government,1210,Recovered,No,2.0,West,Insurance Processing
+HV1371,P2169,15,Female,2024-05-04,2024-05-11,Cardiology,Heart Failure,Medication,D140,7,Private,261,Recovered,Yes,,West,Pending
+HV1372,P2488,21,Male,2024-04-15,2024-04-19,Orthopedics,Dislocation,Therapy,D134,4,Government,1214,Recovered,No,5.0,Central,Insurance Processing
+HV1373,P2309,21,Female,2024-08-02,2024-08-03,Cardiology,Heart Failure,Surgery,D108,1,None,9067,Recovered,No,,North,Pending
+HV1374,P2055,40,Male,2024-02-27,2024-02-28,Orthopedics,Dislocation,Observation,D132,1,Private,430,Recovered,No,3.0,East,Paid
+HV1375,P2107,17,Male,2024-10-02,2024-10-03,Orthopedics,Fracture,Medication,D132,1,Government,172,Recovered,Yes,,West,Paid
+HV1376,P2113,1,Female,2024-04-26,2024-05-03,Emergency,Food Poisoning,Observation,D113,7,Private,399,Ongoing,Yes,2.0,East,Paid
+HV1377,P2397,44,Female,2024-03-10,2024-03-11,Obstetrics,Childbirth,Therapy,D118,1,Private,631,Recovered,No,4.0,East,Paid
+HV1378,P2352,78,Male,2024-05-31,2024-06-01,Orthopedics,Dislocation,Surgery,D137,1,None,5372,Deceased,No,4.0,West,Paid
+HV1379,P2439,65,Male,2024-05-06,2024-05-09,Gynecology,Ovarian Cyst,Surgery,D138,3,None,5422,Recovered,Yes,4.0,East,Pending
+HV1380,P2101,40,Female,2024-09-10,2024-09-11,Oncology,Lung Cancer,Medication,D127,1,None,235,Recovered,No,,West,Paid
+HV1381,P2471,25,Male,2024-08-20,2024-09-06,Obstetrics,Childbirth,Observation,D112,17,Government,1272,Recovered,No,5.0,Central,Pending
+HV1382,P2437,90,Female,2024-12-23,2024-12-24,Oncology,Colon Cancer,Medication,D140,1,None,156,Recovered,No,3.0,East,Insurance Processing
+HV1383,P2042,46,Female,2024-07-06,2024-07-10,Orthopedics,Dislocation,Medication,D136,4,Government,309,Recovered,Yes,,North,Pending
+HV1384,P2362,48,Female,2024-09-14,2024-09-15,Dermatology,Dermatitis,Medication,D105,1,Private,563,Recovered,No,4.0,West,Insurance Processing
+HV1385,P2068,42,Male,2024-08-22,2024-08-23,Emergency,Malaria,Observation,D112,1,Private,241,Recovered,Yes,2.0,Central,Pending
+HV1386,P2427,44,Male,2024-08-30,2024-09-01,Gynecology,Ovarian Cyst,Observation,D102,2,Private,218,Recovered,No,4.0,West,Insurance Processing
+HV1387,P2662,35,Female,2024-09-05,2024-09-06,Obstetrics,Childbirth,Therapy,D137,1,Private,1203,Recovered,No,1.0,North,Pending
+HV1388,P2292,40,Female,2024-03-26,2024-03-28,Orthopedics,Dislocation,Therapy,D112,2,None,1128,Deceased,Yes,4.0,West,Pending
+HV1389,P2189,72,Male,2024-10-14,2024-10-15,Cardiology,Arrhythmia,Therapy,D110,1,Private,1165,Recovered,No,2.0,East,Pending
+HV1390,P2160,67,Male,2024-10-06,2024-10-07,Gynecology,Ovarian Cyst,Observation,D119,1,None,389,Ongoing,No,,Central,Insurance Processing
+HV1391,P2491,7,Male,2024-03-12,2024-03-13,Emergency,Appendicitis,Medication,D126,1,Government,325,Recovered,Yes,5.0,North,Pending
+HV1392,P2201,19,Male,2024-02-12,2024-02-15,Obstetrics,Childbirth,Observation,D113,3,Government,128,Recovered,Yes,,East,Pending
+HV1393,P2396,30,Female,2024-01-07,2024-01-08,Neurology,Migraine,Therapy,D120,1,None,858,Recovered,No,4.0,West,Paid
+HV1394,P2435,61,Female,2024-03-12,2024-03-13,Emergency,Food Poisoning,Surgery,D120,1,Government,2541,Recovered,No,,West,Pending
+HV1395,P2180,67,Female,2024-12-29,2024-12-30,Orthopedics,Fracture,Surgery,D125,1,Private,8740,Recovered,No,2.0,Central,Paid
+HV1396,P2158,57,Female,2024-06-02,2024-06-03,Obstetrics,Childbirth,Therapy,D127,1,Private,1502,Recovered,Yes,5.0,West,Insurance Processing
+HV1397,P2493,24,Female,2024-05-12,2024-05-13,Obstetrics,Childbirth,Therapy,D133,1,Government,1563,Recovered,Yes,3.0,North,Paid
+HV1398,P2280,35,Female,2024-08-02,2024-08-05,Gynecology,Fibroids,Therapy,D119,3,Government,2604,Ongoing,Yes,5.0,West,Pending
+HV1399,P2309,53,Female,2024-12-16,2024-12-17,Gynecology,Fibroids,Therapy,D110,1,Private,1652,Recovered,Yes,1.0,North,Paid
+HV1400,P2516,40,Male,2024-04-06,2024-04-09,Emergency,Severe Dehydration,Observation,D105,3,Private,278,Recovered,No,5.0,West,Paid
+HV1401,P2312,38,Male,2024-03-01,2024-03-06,Oncology,Lung Cancer,Surgery,D115,5,Private,2643,Ongoing,Yes,1.0,East,Pending
+HV1402,P2044,38,Male,2024-02-25,2024-02-28,Cardiology,Hypertension,Observation,D108,3,None,1323,Ongoing,Yes,5.0,North,Paid
+HV1403,P2687,65,Female,2024-01-15,2024-01-16,Emergency,Food Poisoning,Therapy,D138,1,Private,2550,Recovered,Yes,1.0,Central,Insurance Processing
+HV1404,P2223,55,Male,2024-05-24,2024-05-25,Orthopedics,Dislocation,Medication,D107,1,None,616,Recovered,Yes,2.0,West,Pending
+HV1405,P2435,39,Male,2024-09-20,2024-09-21,Oncology,Leukemia,Medication,D121,1,Private,212,Recovered,Yes,1.0,West,Pending
+HV1406,P2119,50,Female,2024-05-25,2024-05-26,Obstetrics,Childbirth,Observation,D115,1,Government,135,Ongoing,No,2.0,Central,Insurance Processing
+HV1407,P2504,22,Male,2024-07-21,2024-07-27,Obstetrics,Childbirth,Medication,D110,6,Private,704,Referred,No,2.0,East,Paid
+HV1408,P2239,35,Female,2024-09-12,2024-09-13,Neurology,Epilepsy,Therapy,D126,1,Private,2970,Recovered,Yes,4.0,Central,Paid
+HV1409,P2257,63,Female,2024-09-11,2024-09-12,Oncology,Colon Cancer,Surgery,D102,1,Private,6080,Recovered,No,2.0,West,Insurance Processing
+HV1410,P2639,16,Male,2024-02-09,2024-02-11,Obstetrics,Childbirth,Surgery,D119,2,Government,4143,Ongoing,Yes,1.0,East,Paid
+HV1411,P2393,55,Female,2024-06-10,2024-06-11,Dermatology,Dermatitis,Observation,D103,1,Private,461,Recovered,No,,East,Pending
+HV1412,P2113,7,Female,2024-12-03,2024-12-04,Obstetrics,Childbirth,Surgery,D133,1,Private,6841,Recovered,No,3.0,Central,Paid
+HV1413,P2605,75,Male,2024-03-06,2024-03-14,Gynecology,Ovarian Cyst,Medication,D122,8,Private,538,Recovered,Yes,2.0,West,Insurance Processing
+HV1414,P2087,35,Male,2024-06-05,2024-06-11,Emergency,Appendicitis,Surgery,D102,6,Government,7388,Ongoing,No,1.0,East,Insurance Processing
+HV1415,P2023,52,Female,2024-07-12,2024-07-14,Dermatology,Dermatitis,Medication,D132,2,Private,791,Ongoing,No,2.0,West,Pending
+HV1416,P2447,47,Male,2024-09-11,2024-09-12,Emergency,Food Poisoning,Therapy,D117,1,Private,2146,Referred,Yes,5.0,West,Pending
+HV1417,P2069,47,Female,2024-08-06,2024-08-07,Oncology,Leukemia,Medication,D120,1,Government,407,Recovered,No,5.0,East,Insurance Processing
+HV1418,P2561,50,Male,2024-01-10,2024-01-13,Orthopedics,Dislocation,Observation,D114,3,Government,426,Recovered,No,5.0,Central,Insurance Processing
+HV1419,P2206,14,Female,2024-08-24,2024-08-25,Orthopedics,Fracture,Surgery,D120,1,None,9046,Ongoing,No,3.0,North,Pending
+HV1420,P2616,48,Male,2024-07-26,2024-08-07,Oncology,Lung Cancer,Surgery,D113,12,Private,5976,Recovered,Yes,2.0,North,Pending
+HV1421,P2140,41,Male,2024-05-12,2024-05-14,Neurology,Epilepsy,Surgery,D103,2,None,2453,Recovered,Yes,4.0,West,Insurance Processing
+HV1422,P2674,35,Male,2024-07-22,2024-07-23,Orthopedics,Fracture,Medication,D137,1,Government,223,Referred,No,4.0,Central,Paid
+HV1423,P2615,30,Male,2024-06-09,2024-06-16,Gynecology,Ovarian Cyst,Surgery,D128,7,Private,3753,Recovered,Yes,4.0,West,Insurance Processing
+HV1424,P2116,48,Female,2024-10-06,2024-10-07,Dermatology,Dermatitis,Surgery,D118,1,None,5893,Recovered,Yes,,Central,Insurance Processing
+HV1425,P2688,27,Male,2024-05-09,2024-05-11,Dermatology,Dermatitis,Therapy,D108,2,Government,2312,Recovered,No,3.0,Central,Paid
+HV1426,P2305,63,Male,2024-03-23,2024-03-24,Obstetrics,Childbirth,Observation,D103,1,Private,477,Ongoing,No,1.0,North,Insurance Processing
+HV1427,P2268,53,Male,2024-06-29,2024-06-30,Dermatology,Dermatitis,Observation,D102,1,Government,327,Recovered,No,2.0,West,Pending
+HV1428,P2590,49,Male,2024-02-26,2024-02-28,Orthopedics,Fracture,Surgery,D139,2,Government,5918,Recovered,No,3.0,North,Paid
+HV1429,P2425,62,Female,2024-04-03,2024-04-06,Dermatology,Dermatitis,Surgery,D102,3,None,9428,Recovered,Yes,1.0,East,Insurance Processing
+HV1430,P2440,11,Female,2024-03-17,2024-03-19,Emergency,Appendicitis,Surgery,D137,2,Private,8335,Recovered,Yes,,North,Paid
+HV1431,P2273,21,Female,2024-09-10,2024-09-11,Dermatology,Skin Infection,Observation,D114,1,Government,192,Recovered,No,3.0,North,Insurance Processing
+HV1432,P2462,54,Male,2024-07-08,2024-07-09,Obstetrics,Childbirth,Medication,D131,1,Private,431,Recovered,No,1.0,Central,Insurance Processing
+HV1433,P2061,31,Male,2024-06-19,2024-06-21,Oncology,Leukemia,Therapy,D139,2,None,686,Recovered,No,,West,Paid
+HV1434,P2573,33,Male,2024-10-24,2024-10-25,Orthopedics,Knee Injury,Surgery,D133,1,Government,3080,Recovered,Yes,3.0,Central,Pending
+HV1435,P2046,19,Male,2024-09-12,2024-09-13,Neurology,Epilepsy,Therapy,D128,1,Private,1580,Recovered,No,2.0,East,Paid
+HV1436,P2194,27,Male,2024-01-28,2024-01-30,Oncology,Lung Cancer,Medication,D131,2,Private,578,Recovered,No,4.0,East,Paid
+HV1437,P2152,63,Male,2024-06-27,2024-06-28,Emergency,Food Poisoning,Therapy,D112,1,None,1617,Recovered,Yes,5.0,North,Pending
+HV1438,P2079,53,Male,2024-09-12,2024-09-15,Emergency,Appendicitis,Medication,D119,3,Government,796,Referred,No,2.0,Central,Paid
+HV1439,P2472,48,Female,2024-08-20,2024-08-21,Neurology,Epilepsy,Medication,D122,1,None,771,Ongoing,Yes,2.0,Central,Insurance Processing
+HV1440,P2290,34,Female,2024-01-29,2024-01-31,Emergency,Severe Dehydration,Medication,D126,2,Private,345,Recovered,No,3.0,North,Paid
+HV1441,P2306,47,Female,2024-08-09,2024-08-11,Neurology,Epilepsy,Surgery,D123,2,Government,3637,Recovered,No,5.0,East,Paid
+HV1442,P2433,65,Female,2024-11-10,2024-11-11,Orthopedics,Knee Injury,Observation,D106,1,Private,214,Recovered,No,5.0,Central,Pending
+HV1443,P2480,32,Female,2024-02-10,2024-02-11,Obstetrics,Childbirth,Surgery,D109,1,Government,6285,Recovered,Yes,1.0,Central,Insurance Processing
+HV1444,P2436,44,Female,2024-02-18,2024-02-21,Obstetrics,Childbirth,Therapy,D117,3,Government,566,Recovered,Yes,4.0,Central,Paid
+HV1445,P2427,76,Female,2024-06-09,2024-06-10,Obstetrics,Childbirth,Therapy,D122,1,None,1364,Recovered,Yes,4.0,Central,Paid
+HV1446,P2405,57,Male,2024-01-07,2024-01-11,Orthopedics,Dislocation,Observation,D130,4,Government,349,Ongoing,No,,East,Pending
+HV1447,P2090,34,Male,2024-03-10,2024-03-13,Cardiology,Heart Failure,Medication,D102,3,Government,292,Recovered,No,,North,Paid
+HV1448,P2309,56,Female,2024-03-16,2024-03-17,Obstetrics,Childbirth,Medication,D108,1,Private,256,Ongoing,Yes,2.0,West,Insurance Processing
+HV1449,P2402,16,Male,2024-06-19,2024-06-20,Cardiology,Hypertension,Observation,D127,1,None,383,Recovered,No,4.0,East,Paid
+HV1450,P2063,43,Male,2024-08-04,2024-08-05,Gynecology,Fibroids,Therapy,D127,1,None,2526,Recovered,Yes,2.0,West,Insurance Processing
+HV1451,P2197,56,Female,2024-06-25,2024-06-27,Obstetrics,Childbirth,Surgery,D138,2,None,8991,Recovered,No,,East,Pending
+HV1452,P2690,51,Female,2024-08-29,2024-09-02,Orthopedics,Dislocation,Surgery,D119,4,Government,3057,Recovered,Yes,4.0,East,Pending
+HV1453,P2241,55,Male,2024-10-12,2024-10-15,Cardiology,Hypertension,Therapy,D117,3,Private,1215,Recovered,No,1.0,North,Paid
+HV1454,P2576,60,Male,2024-09-06,2024-09-07,Neurology,Migraine,Therapy,D103,1,Government,1595,Ongoing,Yes,,Central,Pending
+HV1455,P2469,53,Male,2024-02-24,2024-02-26,Emergency,Malaria,Medication,D111,2,Government,310,Recovered,No,,Central,Paid
+HV1456,P2663,52,Female,2024-06-20,2024-06-21,Orthopedics,Fracture,Surgery,D129,1,None,8838,Recovered,Yes,3.0,West,Insurance Processing
+HV1457,P2425,48,Female,2024-11-18,2024-11-20,Oncology,Lung Cancer,Observation,D115,2,Private,309,Referred,No,1.0,East,Paid
+HV1458,P2011,25,Male,2024-02-13,2024-02-20,Gynecology,Ovarian Cyst,Observation,D111,7,Private,428,Recovered,No,4.0,East,Insurance Processing
+HV1459,P2567,63,Female,2024-06-09,2024-06-19,Gynecology,Fibroids,Therapy,D134,10,Government,2154,Recovered,No,,West,Insurance Processing
+HV1460,P2415,44,Male,2024-06-03,2024-06-08,Emergency,Malaria,Therapy,D125,5,Government,2631,Recovered,No,5.0,West,Insurance Processing
+HV1461,P2164,57,Male,2024-01-15,2024-01-20,Neurology,Stroke,Therapy,D128,5,None,745,Recovered,Yes,1.0,Central,Pending
+HV1462,P2306,61,Male,2024-08-20,2024-08-21,Gynecology,Fibroids,Surgery,D123,1,Private,7508,Recovered,Yes,1.0,West,Insurance Processing
+HV1463,P2597,35,Male,2024-07-03,2024-07-05,Obstetrics,Childbirth,Surgery,D128,2,None,2509,Recovered,No,1.0,West,Insurance Processing
+HV1464,P2539,37,Female,2024-10-28,2024-10-29,Dermatology,Dermatitis,Observation,D128,1,None,183,Recovered,No,2.0,Central,Insurance Processing
+HV1465,P2218,39,Female,2024-08-30,2024-09-02,Cardiology,Heart Failure,Therapy,D108,3,Government,951,Recovered,Yes,1.0,West,Pending
+HV1466,P2384,67,Female,2024-05-30,2024-05-31,Obstetrics,Childbirth,Surgery,D110,1,Government,9674,Recovered,No,1.0,Central,Insurance Processing
+HV1467,P2358,28,Male,2024-01-23,2024-01-24,Dermatology,Dermatitis,Therapy,D137,1,Government,2045,Recovered,Yes,5.0,East,Pending
+HV1468,P2684,71,Female,2024-03-17,2024-03-18,Gynecology,Fibroids,Observation,D125,1,Private,123,Ongoing,No,,Central,Paid
+HV1469,P2026,48,Female,2024-10-14,2024-10-16,Emergency,Malaria,Surgery,D140,2,Government,6274,Recovered,Yes,1.0,North,Paid
+HV1470,P2282,49,Male,2024-05-05,2024-05-06,Obstetrics,Childbirth,Therapy,D126,1,Government,595,Recovered,No,4.0,West,Paid
+HV1471,P2118,61,Male,2024-10-04,2024-10-05,Orthopedics,Knee Injury,Surgery,D112,1,Private,4513,Recovered,No,2.0,Central,Insurance Processing
+HV1472,P2060,46,Female,2024-07-18,2024-07-26,Emergency,Appendicitis,Surgery,D127,8,None,9713,Recovered,Yes,4.0,East,Paid
+HV1473,P2276,64,Male,2024-06-11,2024-06-15,Obstetrics,Childbirth,Medication,D131,4,Private,748,Referred,Yes,2.0,North,Pending
+HV1474,P2582,35,Female,2024-08-16,2024-08-17,Emergency,Food Poisoning,Surgery,D124,1,Government,6403,Recovered,Yes,1.0,East,Insurance Processing
+HV1475,P2297,70,Male,2024-01-01,2024-01-03,Cardiology,Heart Attack,Therapy,D139,2,Private,2057,Ongoing,No,1.0,North,Insurance Processing
+HV1476,P2547,36,Male,2024-06-02,2024-06-03,Emergency,Severe Dehydration,Medication,D109,1,Government,386,Ongoing,No,,West,Insurance Processing
+HV1477,P2464,71,Female,2024-05-05,2024-05-09,Gynecology,Ovarian Cyst,Surgery,D130,4,None,9487,Ongoing,No,1.0,Central,Insurance Processing
+HV1478,P2178,37,Female,2024-10-11,2024-10-12,Obstetrics,Childbirth,Medication,D105,1,Government,787,Ongoing,No,4.0,North,Insurance Processing
+HV1479,P2009,39,Male,2024-08-24,2024-08-25,Gynecology,Fibroids,Observation,D101,1,Private,463,Recovered,No,,North,Paid
+HV1480,P2506,26,Female,2024-01-19,2024-01-20,Neurology,Migraine,Surgery,D101,1,Private,2908,Recovered,Yes,,North,Paid
+HV1481,P2603,31,Male,2024-02-03,2024-02-04,Orthopedics,Knee Injury,Surgery,D134,1,Government,8944,Referred,No,,East,Paid
+HV1482,P2438,44,Male,2024-06-14,2024-06-15,Dermatology,Dermatitis,Therapy,D108,1,Government,2529,Ongoing,Yes,1.0,West,Pending
+HV1483,P2546,49,Female,2024-06-10,2024-06-13,Cardiology,Heart Attack,Surgery,D122,3,Private,8041,Recovered,Yes,2.0,North,Paid
+HV1484,P2338,62,Female,2024-02-02,2024-02-10,Emergency,Malaria,Observation,D128,8,None,228,Recovered,No,1.0,West,Insurance Processing
+HV1485,P2243,41,Male,2024-11-03,2024-11-04,Obstetrics,Childbirth,Observation,D138,1,Private,260,Recovered,Yes,1.0,East,Paid
+HV1486,P2309,24,Female,2024-02-03,2024-02-17,Emergency,Malaria,Medication,D119,14,None,511,Ongoing,Yes,4.0,East,Pending
+HV1487,P2439,51,Male,2024-06-22,2024-06-23,Cardiology,Heart Attack,Therapy,D138,1,Private,550,Ongoing,Yes,5.0,North,Insurance Processing
+HV1488,P2522,47,Female,2024-06-30,2024-07-02,Dermatology,Dermatitis,Observation,D112,2,Private,259,Recovered,No,3.0,North,Paid
+HV1489,P2481,53,Female,2024-11-04,2024-11-06,Gynecology,Ovarian Cyst,Therapy,D101,2,Government,1092,Ongoing,Yes,4.0,West,Paid
+HV1490,P2206,33,Male,2024-02-05,2024-02-06,Gynecology,Fibroids,Observation,D130,1,Government,271,Recovered,Yes,1.0,East,Paid
+HV1491,P2508,35,Male,2024-01-02,2024-01-03,Oncology,Colon Cancer,Surgery,D130,1,Government,8017,Recovered,No,2.0,East,Paid
+HV1492,P2007,33,Female,2024-01-06,2024-01-07,Emergency,Appendicitis,Medication,D136,1,Private,397,Ongoing,Yes,1.0,North,Paid
+HV1493,P2291,66,Male,2024-04-22,2024-05-02,Neurology,Epilepsy,Surgery,D122,10,None,3605,Recovered,Yes,1.0,North,Pending
+HV1494,P2671,70,Male,2024-06-22,2024-06-25,Oncology,Leukemia,Observation,D116,3,Private,369,Deceased,No,,Central,Paid
+HV1495,P2148,34,Male,2024-04-07,2024-04-08,Oncology,Colon Cancer,Observation,D124,1,Private,123,Recovered,No,2.0,West,Paid
+HV1496,P2055,35,Female,2024-03-05,2024-03-06,Obstetrics,Childbirth,Medication,D131,1,Government,729,Ongoing,No,4.0,East,Paid
+HV1497,P2330,56,Female,2024-09-26,2024-09-28,Obstetrics,Childbirth,Observation,D118,2,Government,118,Ongoing,No,2.0,East,Paid
+HV1498,P2314,72,Female,2024-07-12,2024-07-13,Orthopedics,Knee Injury,Therapy,D136,1,Private,1708,Recovered,No,5.0,West,Pending
+HV1499,P2462,77,Female,2024-08-09,2024-08-15,Dermatology,Dermatitis,Observation,D121,6,Private,219,Recovered,Yes,3.0,Central,Pending
+HV1500,P2234,33,Male,2024-03-01,2024-03-07,Emergency,Appendicitis,Medication,D135,6,Private,301,Ongoing,No,2.0,North,Insurance Processing
+HV1501,P2557,38,Female,2024-01-05,2024-01-14,Neurology,Migraine,Therapy,D126,9,None,548,Ongoing,Yes,4.0,North,Paid
+HV1502,P2215,50,Female,2024-04-29,2024-05-02,Obstetrics,Childbirth,Therapy,D106,3,Private,2256,Recovered,Yes,3.0,North,Insurance Processing
+HV1503,P2132,51,Female,2024-01-05,2024-01-07,Obstetrics,Childbirth,Therapy,D115,2,Private,2702,Recovered,Yes,2.0,North,Pending
+HV1504,P2582,41,Female,2024-07-14,2024-07-15,Oncology,Leukemia,Medication,D135,1,Private,586,Recovered,No,1.0,North,Paid
+HV1505,P2692,30,Male,2024-01-17,2024-01-18,Obstetrics,Childbirth,Surgery,D113,1,Private,3686,Recovered,No,1.0,West,Insurance Processing
+HV1506,P2012,44,Male,2024-06-16,2024-06-17,Dermatology,Dermatitis,Surgery,D108,1,Private,8087,Ongoing,Yes,2.0,North,Pending
+HV1507,P2443,77,Female,2024-03-22,2024-03-23,Neurology,Epilepsy,Surgery,D133,1,Government,3652,Recovered,No,5.0,North,Insurance Processing
+HV1508,P2337,35,Female,2024-08-23,2024-08-28,Obstetrics,Childbirth,Medication,D119,5,Government,567,Recovered,Yes,4.0,North,Paid
+HV1509,P2633,49,Female,2024-08-22,2024-08-24,Dermatology,Skin Infection,Medication,D126,2,Government,144,Recovered,No,,Central,Insurance Processing
+HV1510,P2223,90,Female,2024-07-29,2024-08-03,Emergency,Appendicitis,Medication,D107,5,Government,433,Recovered,No,1.0,Central,Insurance Processing
+HV1511,P2692,35,Female,2024-07-14,2024-07-15,Gynecology,Ovarian Cyst,Surgery,D126,1,Private,7808,Recovered,No,4.0,Central,Paid
+HV1512,P2562,57,Male,2024-12-31,2025-01-01,Obstetrics,Childbirth,Observation,D118,1,None,151,Recovered,No,2.0,Central,Insurance Processing
+HV1513,P2012,78,Female,2024-03-19,2024-03-25,Obstetrics,Childbirth,Surgery,D114,6,Government,3770,Ongoing,Yes,4.0,West,Pending
+HV1514,P2054,55,Male,2024-01-25,2024-01-30,Dermatology,Skin Infection,Surgery,D124,5,None,2131,Recovered,Yes,,Central,Paid
+HV1515,P2099,64,Male,2024-03-26,2024-04-01,Cardiology,Heart Attack,Medication,D121,6,Private,741,Recovered,No,1.0,North,Paid
+HV1516,P2109,59,Female,2024-06-14,2024-06-17,Orthopedics,Fracture,Observation,D121,3,Private,133,Recovered,No,1.0,Central,Paid
+HV1517,P2421,54,Female,2024-11-02,2024-11-05,Obstetrics,Childbirth,Surgery,D117,3,None,7168,Ongoing,Yes,3.0,North,Insurance Processing
+HV1518,P2326,69,Female,2024-02-04,2024-02-05,Gynecology,Fibroids,Observation,D125,1,Government,460,Recovered,Yes,3.0,North,Insurance Processing
+HV1519,P2439,56,Male,2024-11-13,2024-11-19,Emergency,Malaria,Surgery,D124,6,Government,5078,Recovered,No,,West,Paid
+HV1520,P2285,41,Female,2024-11-25,2024-11-26,Cardiology,Heart Attack,Therapy,D102,1,Private,1903,Ongoing,Yes,,North,Insurance Processing
+HV1521,P2391,47,Female,2024-04-03,2024-04-07,Obstetrics,Childbirth,Medication,D132,4,Private,297,Recovered,Yes,5.0,North,Paid
+HV1522,P2520,51,Male,2024-08-06,2024-08-11,Obstetrics,Childbirth,Surgery,D113,5,Private,4039,Recovered,Yes,3.0,East,Paid
+HV1523,P2369,37,Female,2024-07-12,2024-07-14,Orthopedics,Knee Injury,Observation,D128,2,Government,2076,Recovered,Yes,3.0,North,Insurance Processing
+HV1524,P2180,48,Female,2024-07-13,2024-07-15,Obstetrics,Childbirth,Observation,D119,2,Private,270,Recovered,Yes,2.0,Central,Paid
+HV1525,P2513,45,Female,2024-09-08,2024-09-09,Dermatology,Dermatitis,Observation,D124,1,Private,309,Deceased,Yes,4.0,North,Paid
+HV1526,P2447,56,Female,2024-06-27,2024-07-01,Obstetrics,Childbirth,Medication,D125,4,None,352,Recovered,Yes,,North,Pending
+HV1527,P2620,83,Female,2024-12-14,2024-12-15,Orthopedics,Knee Injury,Surgery,D139,1,Government,2101,Recovered,No,4.0,Central,Insurance Processing
+HV1528,P2194,49,Female,2024-03-25,2024-04-03,Dermatology,Dermatitis,Therapy,D133,9,None,2067,Ongoing,Yes,1.0,West,Paid
+HV1529,P2276,73,Male,2024-07-22,2024-07-23,Neurology,Stroke,Surgery,D132,1,Private,6300,Recovered,Yes,2.0,West,Paid
+HV1530,P2138,55,Male,2024-09-06,2024-09-07,Orthopedics,Dislocation,Medication,D129,1,Government,317,Ongoing,Yes,3.0,East,Pending
+HV1531,P2642,48,Male,2024-11-21,2024-11-29,Orthopedics,Fracture,Therapy,D106,8,Private,763,Recovered,Yes,1.0,Central,Pending
+HV1532,P2008,36,Male,2024-02-19,2024-02-20,Oncology,Colon Cancer,Medication,D125,1,Government,372,Recovered,No,,West,Pending
+HV1533,P2246,48,Female,2024-12-06,2024-12-09,Dermatology,Dermatitis,Medication,D123,3,None,202,Ongoing,Yes,1.0,Central,Insurance Processing
+HV1534,P2287,47,Male,2024-07-07,2024-07-08,Obstetrics,Childbirth,Observation,D113,1,Private,424,Recovered,No,,East,Paid
+HV1535,P2622,32,Female,2024-07-23,2024-07-25,Emergency,Appendicitis,Observation,D131,2,None,410,Recovered,Yes,2.0,East,Paid
+HV1536,P2309,34,Female,2024-03-27,2024-03-31,Obstetrics,Childbirth,Observation,D135,4,Private,437,Recovered,Yes,2.0,West,Pending
+HV1537,P2288,51,Male,2024-05-11,2024-05-12,Obstetrics,Childbirth,Surgery,D135,1,Government,8517,Recovered,Yes,,West,Pending
+HV1538,P2391,73,Female,2024-04-29,2024-05-02,Oncology,Leukemia,Medication,D119,3,Private,191,Recovered,Yes,5.0,West,Paid
+HV1539,P2321,43,Female,2024-10-22,2024-10-23,Cardiology,Arrhythmia,Medication,D138,1,Government,497,Recovered,Yes,5.0,North,Paid
+HV1540,P2405,18,Male,2024-10-02,2024-10-03,Obstetrics,Childbirth,Surgery,D119,1,None,3207,Recovered,Yes,5.0,West,Pending
+HV1541,P2515,5,Male,2024-05-20,2024-05-24,Obstetrics,Childbirth,Observation,D119,4,Government,270,Recovered,Yes,,Central,Paid
+HV1542,P2500,26,Female,2024-06-02,2024-06-03,Orthopedics,Fracture,Observation,D122,1,Private,300,Recovered,No,3.0,North,Insurance Processing
+HV1543,P2562,57,Female,2024-02-19,2024-02-22,Orthopedics,Knee Injury,Medication,D120,3,Government,267,Recovered,Yes,2.0,North,Insurance Processing
+HV1544,P2201,21,Male,2024-07-04,2024-07-13,Emergency,Food Poisoning,Observation,D128,9,Government,282,Recovered,Yes,1.0,West,Insurance Processing
+HV1545,P2445,60,Male,2024-11-17,2024-11-18,Dermatology,Skin Infection,Medication,D108,1,Private,600,Recovered,No,,Central,Pending
+HV1546,P2666,56,Female,2024-05-20,2024-05-21,Obstetrics,Childbirth,Medication,D108,1,Private,224,Recovered,No,3.0,Central,Insurance Processing
+HV1547,P2186,43,Female,2024-09-04,2024-09-07,Dermatology,Dermatitis,Surgery,D107,3,Private,31920,Recovered,Yes,2.0,Central,Paid
+HV1548,P2614,17,Male,2024-01-03,2024-01-15,Obstetrics,Childbirth,Medication,D103,12,Private,311,Ongoing,Yes,1.0,West,Pending
+HV1549,P2558,32,Male,2024-08-04,2024-08-05,Cardiology,Heart Failure,Therapy,D103,1,None,1701,Recovered,No,5.0,West,Insurance Processing
+HV1550,P2552,40,Male,2024-12-18,2024-12-19,Emergency,Malaria,Surgery,D103,1,Private,9843,Recovered,No,3.0,North,Insurance Processing
+HV1551,P2638,51,Female,2024-02-08,2024-02-09,Neurology,Migraine,Observation,D111,1,Private,317,Recovered,Yes,1.0,West,Insurance Processing
+HV1552,P2662,22,Male,2024-12-31,2025-01-05,Gynecology,Fibroids,Observation,D110,5,Private,409,Recovered,Yes,,East,Paid
+HV1553,P2338,70,Male,2024-07-04,2024-07-05,Gynecology,Ovarian Cyst,Surgery,D115,1,Private,9936,Recovered,Yes,2.0,West,Insurance Processing
+HV1554,P2502,51,Male,2024-09-27,2024-10-01,Gynecology,Ovarian Cyst,Therapy,D139,4,Private,1199,Recovered,No,4.0,North,Pending
+HV1555,P2010,53,Male,2024-12-02,2024-12-07,Orthopedics,Fracture,Observation,D137,5,Government,498,Recovered,No,2.0,East,Pending
+HV1556,P2480,56,Female,2024-05-21,2024-05-22,Dermatology,Skin Infection,Therapy,D106,1,None,1780,Recovered,Yes,1.0,North,Insurance Processing
+HV1557,P2059,68,Male,2024-05-26,2024-05-27,Obstetrics,Childbirth,Observation,D133,1,None,363,Recovered,Yes,4.0,Central,Insurance Processing
+HV1558,P2195,48,Male,2024-12-31,2025-01-04,Dermatology,Dermatitis,Surgery,D134,4,Government,5675,Ongoing,Yes,2.0,Central,Pending
+HV1559,P2137,57,Female,2024-01-27,2024-01-28,Dermatology,Dermatitis,Observation,D111,1,Private,447,Recovered,Yes,3.0,West,Pending
+HV1560,P2301,32,Female,2024-04-19,2024-04-20,Cardiology,Heart Attack,Surgery,D120,1,None,8764,Ongoing,No,1.0,West,Paid
+HV1561,P2631,77,Female,2024-06-17,2024-06-19,Neurology,Migraine,Medication,D101,2,Private,290,Recovered,Yes,5.0,North,Pending
+HV1562,P2127,47,Female,2024-01-04,2024-01-05,Orthopedics,Dislocation,Therapy,D115,1,Government,1725,Recovered,No,1.0,East,Insurance Processing
+HV1563,P2450,32,Male,2024-03-12,2024-03-16,Gynecology,Ovarian Cyst,Medication,D123,4,None,303,Recovered,No,1.0,North,Insurance Processing
+HV1564,P2204,36,Female,2024-12-06,2024-12-07,Neurology,Stroke,Observation,D132,1,Government,484,Ongoing,No,2.0,Central,Paid
+HV1565,P2022,10,Male,2024-03-20,2024-03-21,Gynecology,Fibroids,Surgery,D104,1,Government,9998,Recovered,No,3.0,East,Paid
+HV1566,P2440,36,Male,2024-11-12,2024-11-14,Orthopedics,Dislocation,Surgery,D116,2,Private,7742,Recovered,No,,Central,Insurance Processing
+HV1567,P2515,1,Male,2024-04-06,2024-04-07,Orthopedics,Fracture,Medication,D109,1,Private,380,Recovered,Yes,1.0,East,Pending
+HV1568,P2538,59,Female,2024-12-24,2024-12-28,Oncology,Lung Cancer,Therapy,D128,4,Government,2249,Recovered,No,3.0,East,Paid
+HV1569,P2328,52,Male,2024-04-03,2024-04-04,Cardiology,Hypertension,Medication,D121,1,Private,583,Recovered,No,3.0,West,Pending
+HV1570,P2115,27,Male,2024-12-08,2024-12-09,Cardiology,Heart Failure,Therapy,D124,1,Government,2912,Recovered,Yes,5.0,East,Paid
+HV1571,P2109,44,Male,2024-11-18,2024-11-30,Emergency,Malaria,Surgery,D113,12,Government,9715,Recovered,No,2.0,North,Paid
+HV1572,P2131,44,Male,2024-08-02,2024-08-04,Neurology,Epilepsy,Therapy,D124,2,Private,2286,Referred,Yes,2.0,West,Insurance Processing
+HV1573,P2133,24,Female,2024-01-24,2024-01-27,Cardiology,Heart Failure,Observation,D132,3,Government,324,Recovered,No,4.0,West,Paid
+HV1574,P2189,41,Male,2024-03-22,2024-03-23,Oncology,Colon Cancer,Medication,D133,1,Government,637,Recovered,Yes,2.0,North,Paid
+HV1575,P2547,45,Male,2024-05-29,2024-05-31,Cardiology,Heart Failure,Therapy,D109,2,Private,1519,Recovered,No,,West,Pending
+HV1576,P2086,40,Female,2024-03-09,2024-03-10,Dermatology,Dermatitis,Therapy,D104,1,Government,1956,Recovered,Yes,5.0,Central,Insurance Processing
+HV1577,P2392,32,Female,2024-11-16,2024-11-17,Oncology,Leukemia,Surgery,D121,1,Private,3275,Recovered,No,2.0,East,Paid
+HV1578,P2508,26,Male,2024-08-23,2024-08-25,Orthopedics,Fracture,Surgery,D137,2,Government,2172,Recovered,No,,North,Paid
+HV1579,P2147,39,Male,2024-08-06,2024-08-09,Oncology,Leukemia,Observation,D107,3,Government,151,Recovered,Yes,,Central,Paid
+HV1580,P2255,34,Male,2024-05-17,2024-05-18,Orthopedics,Dislocation,Medication,D101,1,None,208,Recovered,Yes,4.0,East,Paid
+HV1581,P2315,55,Female,2024-09-02,2024-09-03,Orthopedics,Fracture,Medication,D135,1,Government,742,Recovered,No,1.0,East,Paid
+HV1582,P2002,70,Male,2024-01-13,2024-01-14,Oncology,Leukemia,Observation,D110,1,Private,450,Ongoing,Yes,4.0,North,Paid
+HV1583,P2230,61,Male,2024-05-24,2024-06-01,Gynecology,Fibroids,Therapy,D108,8,Private,677,Recovered,Yes,,East,Paid
+HV1584,P2684,46,Female,2024-11-15,2024-11-18,Neurology,Migraine,Medication,D118,3,None,777,Recovered,Yes,1.0,North,Insurance Processing
+HV1585,P2151,33,Female,2024-03-16,2024-03-22,Dermatology,Dermatitis,Observation,D105,6,Private,146,Recovered,No,3.0,West,Pending
+HV1586,P2435,61,Female,2024-12-21,2024-12-22,Dermatology,Dermatitis,Surgery,D116,1,Private,6413,Recovered,Yes,4.0,Central,Insurance Processing
+HV1587,P2432,56,Male,2024-12-25,2024-12-30,Emergency,Food Poisoning,Therapy,D101,5,Private,1984,Ongoing,Yes,3.0,West,Paid
+HV1588,P2302,68,Female,2024-03-14,2024-03-15,Dermatology,Skin Infection,Surgery,D115,1,Private,9881,Recovered,Yes,,East,Pending
+HV1589,P2056,48,Male,2024-12-05,2024-12-08,Emergency,Severe Dehydration,Surgery,D102,3,Private,24042,Recovered,Yes,4.0,North,Insurance Processing
+HV1590,P2541,76,Female,2024-08-28,2024-08-29,Dermatology,Dermatitis,Observation,D101,1,Private,428,Ongoing,Yes,1.0,East,Pending
+HV1591,P2697,48,Female,2024-10-10,2024-10-11,Neurology,Epilepsy,Therapy,D115,1,Private,1613,Referred,Yes,,North,Pending
+HV1592,P2634,33,Male,2024-04-22,2024-04-28,Dermatology,Skin Infection,Medication,D130,6,Government,768,Ongoing,No,2.0,West,Paid
+HV1593,P2107,36,Male,2024-07-04,2024-07-05,Gynecology,Fibroids,Surgery,D119,1,Private,18675,Recovered,Yes,,Central,Paid
+HV1594,P2276,54,Male,2024-10-18,2024-10-21,Cardiology,Heart Attack,Medication,D104,3,Private,416,Recovered,Yes,3.0,East,Insurance Processing
+HV1595,P2365,34,Male,2024-12-25,2024-12-27,Emergency,Appendicitis,Observation,D133,2,Private,295,Ongoing,Yes,3.0,North,Paid
+HV1596,P2699,76,Female,2024-02-10,2024-02-11,Emergency,Food Poisoning,Surgery,D110,1,Government,6229,Recovered,No,4.0,North,Pending
+HV1597,P2298,52,Female,2024-11-15,2024-12-01,Dermatology,Skin Infection,Observation,D116,16,Private,178,Deceased,Yes,1.0,North,Pending
+HV1598,P2561,45,Male,2024-09-12,2024-09-13,Emergency,Severe Dehydration,Therapy,D111,1,None,779,Recovered,Yes,,East,Pending
+HV1599,P2485,47,Female,2024-08-14,2024-08-17,Orthopedics,Fracture,Observation,D103,3,Private,417,Recovered,No,5.0,West,Pending
+HV1600,P2086,40,Female,2024-09-16,2024-09-22,Obstetrics,Childbirth,Medication,D140,6,None,474,Recovered,Yes,5.0,East,Paid
+HV1601,P2229,14,Female,2024-08-24,2024-08-27,Emergency,Appendicitis,Observation,D130,3,Government,192,Ongoing,No,4.0,North,Pending
+HV1602,P2337,36,Male,2024-06-11,2024-06-12,Gynecology,Ovarian Cyst,Surgery,D131,1,Private,6465,Recovered,Yes,3.0,Central,Insurance Processing
+HV1603,P2390,73,Male,2024-07-04,2024-07-05,Dermatology,Dermatitis,Surgery,D104,1,Private,4210,Recovered,Yes,3.0,East,Paid
+HV1604,P2306,49,Female,2024-08-02,2024-08-03,Oncology,Colon Cancer,Therapy,D112,1,None,2255,Recovered,No,4.0,East,Insurance Processing
+HV1605,P2165,63,Female,2024-06-30,2024-07-03,Dermatology,Skin Infection,Surgery,D105,3,Government,4652,Referred,No,1.0,North,Pending
+HV1606,P2152,64,Female,2024-06-11,2024-06-17,Emergency,Severe Dehydration,Therapy,D134,6,Government,1014,Recovered,Yes,2.0,North,Pending
+HV1607,P2560,44,Male,2024-11-03,2024-11-04,Dermatology,Skin Infection,Therapy,D114,1,None,2862,Recovered,No,3.0,Central,Insurance Processing
+HV1608,P2512,56,Female,2024-07-30,2024-08-06,Dermatology,Dermatitis,Therapy,D135,7,Private,964,Recovered,Yes,5.0,East,Pending
+HV1609,P2292,16,Female,2024-11-20,2024-11-21,Neurology,Epilepsy,Medication,D106,1,None,206,Recovered,No,,Central,Insurance Processing
+HV1610,P2455,71,Male,2024-12-07,2024-12-10,Neurology,Migraine,Surgery,D115,3,Government,2937,Referred,No,4.0,East,Insurance Processing
+HV1611,P2406,69,Male,2024-07-10,2024-07-11,Oncology,Colon Cancer,Therapy,D118,1,None,1759,Recovered,No,1.0,Central,Paid
+HV1612,P2158,53,Female,2024-09-22,2024-09-23,Gynecology,Ovarian Cyst,Surgery,D137,1,None,9974,Recovered,Yes,5.0,East,Paid
+HV1613,P2652,49,Female,2024-03-29,2024-03-30,Dermatology,Dermatitis,Surgery,D128,1,Private,2969,Recovered,No,5.0,North,Pending
+HV1614,P2209,44,Male,2024-02-17,2024-02-18,Cardiology,Heart Attack,Medication,D138,1,Private,732,Recovered,Yes,4.0,West,Paid
+HV1615,P2246,66,Male,2024-06-01,2024-06-07,Oncology,Colon Cancer,Surgery,D125,6,Government,4252,Recovered,Yes,1.0,East,Insurance Processing
+HV1616,P2126,58,Male,2024-03-13,2024-03-14,Neurology,Migraine,Surgery,D106,1,Private,5201,Recovered,Yes,4.0,Central,Paid
+HV1617,P2430,1,Female,2024-06-09,2024-06-11,Obstetrics,Childbirth,Surgery,D120,2,Private,7170,Recovered,No,3.0,East,Insurance Processing
+HV1618,P2615,38,Male,2024-03-22,2024-04-01,Neurology,Stroke,Surgery,D139,10,Private,6192,Ongoing,Yes,2.0,Central,Pending
+HV1619,P2142,24,Male,2024-02-12,2024-02-13,Orthopedics,Knee Injury,Therapy,D131,1,Private,1927,Recovered,No,4.0,East,Paid
+HV1620,P2257,21,Male,2024-04-11,2024-04-15,Neurology,Migraine,Medication,D138,4,Government,701,Recovered,No,4.0,West,Pending
+HV1621,P2638,65,Male,2024-11-06,2024-11-07,Dermatology,Dermatitis,Surgery,D137,1,Private,5681,Referred,No,5.0,East,Pending
+HV1622,P2619,44,Female,2024-07-22,2024-07-23,Cardiology,Hypertension,Surgery,D121,1,Private,4009,Recovered,Yes,3.0,Central,Paid
+HV1623,P2327,53,Male,2024-06-17,2024-06-18,Oncology,Leukemia,Therapy,D115,1,Government,1661,Recovered,No,,Central,Insurance Processing
+HV1624,P2662,46,Female,2024-12-15,2024-12-16,Dermatology,Dermatitis,Therapy,D113,1,Private,2542,Recovered,Yes,5.0,West,Insurance Processing
+HV1625,P2393,21,Male,2024-10-22,2024-10-27,Cardiology,Arrhythmia,Medication,D137,5,None,572,Recovered,Yes,3.0,Central,Paid
+HV1626,P2482,16,Male,2024-07-31,2024-08-02,Neurology,Migraine,Therapy,D123,2,Private,1782,Recovered,No,4.0,Central,Pending
+HV1627,P2633,37,Male,2024-01-15,2024-01-18,Oncology,Lung Cancer,Medication,D109,3,Private,430,Recovered,No,5.0,Central,Insurance Processing
+HV1628,P2054,38,Female,2024-01-23,2024-01-24,Emergency,Malaria,Therapy,D105,1,Private,2054,Recovered,No,1.0,North,Pending
+HV1629,P2152,38,Female,2024-11-22,2024-11-25,Obstetrics,Childbirth,Surgery,D137,3,Government,4637,Recovered,No,3.0,Central,Pending
+HV1630,P2572,39,Male,2024-12-03,2024-12-08,Oncology,Colon Cancer,Medication,D105,5,None,161,Ongoing,Yes,4.0,Central,Pending
+HV1631,P2214,82,Female,2024-06-08,2024-06-12,Obstetrics,Childbirth,Medication,D109,4,Private,472,Recovered,No,2.0,Central,Pending
+HV1632,P2434,63,Male,2024-12-17,2024-12-18,Neurology,Epilepsy,Medication,D110,1,Government,209,Recovered,Yes,4.0,East,Pending
+HV1633,P2272,49,Male,2024-10-08,2024-10-09,Emergency,Appendicitis,Observation,D114,1,Private,270,Recovered,Yes,1.0,East,Insurance Processing
+HV1634,P2433,43,Male,2024-05-30,2024-06-01,Oncology,Leukemia,Surgery,D139,2,Private,6248,Recovered,Yes,1.0,North,Paid
+HV1635,P2055,44,Male,2024-10-21,2024-10-29,Neurology,Stroke,Medication,D135,8,Private,331,Recovered,No,4.0,North,Paid
+HV1636,P2209,58,Female,2024-11-22,2024-11-23,Neurology,Epilepsy,Therapy,D101,1,Private,2452,Recovered,Yes,3.0,Central,Paid
+HV1637,P2192,43,Female,2024-08-21,2024-08-23,Orthopedics,Fracture,Observation,D128,2,Private,139,Ongoing,Yes,5.0,West,Pending
+HV1638,P2598,61,Male,2024-09-07,2024-09-08,Oncology,Leukemia,Medication,D103,1,None,680,Recovered,Yes,1.0,Central,Pending
+HV1639,P2344,51,Female,2024-09-08,2024-09-10,Gynecology,Ovarian Cyst,Observation,D117,2,Private,463,Recovered,No,1.0,West,Insurance Processing
+HV1640,P2532,82,Male,2024-03-16,2024-03-17,Dermatology,Skin Infection,Surgery,D123,1,Government,8070,Recovered,Yes,2.0,East,Insurance Processing
+HV1641,P2111,42,Female,2024-11-16,2024-11-17,Obstetrics,Childbirth,Therapy,D123,1,None,2913,Recovered,No,5.0,Central,Pending
+HV1642,P2466,64,Female,2024-05-27,2024-05-28,Emergency,Malaria,Observation,D110,1,Government,248,Recovered,No,4.0,West,Paid
+HV1643,P2302,26,Male,2024-08-20,2024-08-23,Cardiology,Heart Failure,Therapy,D138,3,Private,1752,Ongoing,Yes,3.0,North,Pending
+HV1644,P2291,33,Male,2024-02-14,2024-02-20,Neurology,Stroke,Surgery,D128,6,Government,3792,Recovered,No,4.0,East,Paid
+HV1645,P2268,79,Female,2024-11-01,2024-11-02,Neurology,Stroke,Observation,D121,1,None,169,Recovered,No,1.0,West,Insurance Processing
+HV1646,P2644,60,Female,2024-10-06,2024-10-14,Orthopedics,Knee Injury,Observation,D107,8,Private,450,Recovered,No,4.0,East,Pending
+HV1647,P2473,53,Male,2024-10-13,2024-10-16,Cardiology,Heart Attack,Medication,D109,3,Government,409,Recovered,No,1.0,East,Paid
+HV1648,P2413,88,Male,2024-08-24,2024-08-30,Obstetrics,Childbirth,Medication,D104,6,Private,765,Recovered,No,,West,Paid
+HV1649,P2125,43,Male,2024-12-25,2024-12-27,Oncology,Colon Cancer,Surgery,D136,2,Government,3831,Recovered,No,,Central,Pending
+HV1650,P2639,64,Male,2024-02-28,2024-02-29,Emergency,Malaria,Surgery,D139,1,None,4025,Recovered,No,4.0,Central,Paid
+HV1651,P2308,66,Female,2024-09-04,2024-09-07,Orthopedics,Fracture,Therapy,D140,3,Government,1004,Recovered,Yes,2.0,North,Pending
+HV1652,P2492,74,Female,2024-05-28,2024-05-29,Emergency,Severe Dehydration,Therapy,D118,1,Private,2400,Recovered,Yes,5.0,East,Paid
+HV1653,P2595,24,Female,2024-01-18,2024-01-21,Obstetrics,Childbirth,Therapy,D109,3,Government,1634,Ongoing,Yes,3.0,East,Insurance Processing
+HV1654,P2065,43,Male,2024-12-01,2024-12-07,Orthopedics,Knee Injury,Therapy,D130,6,Government,1640,Ongoing,Yes,,East,Pending
+HV1655,P2484,50,Male,2024-10-21,2024-10-25,Neurology,Stroke,Therapy,D138,4,None,2894,Recovered,Yes,2.0,Central,Insurance Processing
+HV1656,P2109,74,Female,2024-12-13,2024-12-19,Obstetrics,Childbirth,Surgery,D116,6,Private,8191,Recovered,No,1.0,Central,Insurance Processing
+HV1657,P2075,53,Female,2024-07-10,2024-07-11,Cardiology,Heart Failure,Therapy,D107,1,Government,1045,Recovered,No,4.0,West,Paid
+HV1658,P2207,66,Male,2024-08-10,2024-08-14,Oncology,Lung Cancer,Medication,D107,4,Private,243,Recovered,Yes,3.0,North,Insurance Processing
+HV1659,P2658,22,Female,2024-04-07,2024-04-11,Oncology,Colon Cancer,Observation,D133,4,Private,170,Recovered,No,1.0,Central,Paid
+HV1660,P2530,39,Female,2024-02-21,2024-02-26,Emergency,Severe Dehydration,Surgery,D104,5,Government,3835,Recovered,No,1.0,North,Pending
+HV1661,P2077,69,Male,2024-09-22,2024-09-23,Neurology,Migraine,Medication,D135,1,Government,213,Recovered,No,3.0,North,Pending
+HV1662,P2061,41,Male,2024-04-14,2024-04-15,Gynecology,Fibroids,Surgery,D132,1,Private,7759,Recovered,Yes,4.0,Central,Insurance Processing
+HV1663,P2491,45,Male,2024-05-18,2024-05-19,Cardiology,Hypertension,Medication,D132,1,Government,765,Ongoing,Yes,1.0,Central,Paid
+HV1664,P2201,73,Female,2024-12-15,2024-12-16,Cardiology,Heart Attack,Medication,D125,1,Government,228,Recovered,Yes,5.0,West,Pending
+HV1665,P2199,29,Female,2024-08-11,2024-08-12,Cardiology,Heart Failure,Surgery,D106,1,Government,8123,Ongoing,Yes,1.0,North,Paid
+HV1666,P2079,33,Male,2024-03-05,2024-03-06,Obstetrics,Childbirth,Therapy,D103,1,Private,1500,Recovered,Yes,,Central,Paid
+HV1667,P2257,21,Male,2024-09-10,2024-09-11,Gynecology,Fibroids,Observation,D120,1,None,434,Ongoing,No,,Central,Paid
+HV1668,P2355,74,Female,2024-12-27,2024-12-29,Obstetrics,Childbirth,Medication,D114,2,None,633,Recovered,Yes,1.0,North,Insurance Processing
+HV1669,P2451,63,Female,2024-02-28,2024-02-29,Cardiology,Heart Attack,Medication,D118,1,Private,493,Ongoing,No,4.0,Central,Pending
+HV1670,P2394,62,Female,2024-01-23,2024-01-25,Oncology,Lung Cancer,Observation,D112,2,Government,256,Ongoing,Yes,5.0,West,Pending
+HV1671,P2606,39,Male,2024-01-15,2024-01-16,Gynecology,Ovarian Cyst,Observation,D104,1,None,469,Recovered,No,4.0,West,Paid
+HV1672,P2391,19,Female,2024-05-01,2024-05-03,Orthopedics,Fracture,Therapy,D118,2,Private,2723,Recovered,No,3.0,West,Insurance Processing
+HV1673,P2257,15,Male,2024-03-04,2024-03-06,Neurology,Epilepsy,Therapy,D117,2,None,7185,Referred,No,,North,Pending
+HV1674,P2060,69,Male,2024-05-21,2024-05-26,Gynecology,Fibroids,Observation,D112,5,Private,353,Recovered,Yes,5.0,Central,Paid
+HV1675,P2118,55,Male,2024-04-04,2024-04-07,Obstetrics,Childbirth,Medication,D136,3,Government,810,Recovered,Yes,5.0,North,Pending
+HV1676,P2112,58,Male,2024-09-16,2024-09-17,Obstetrics,Childbirth,Medication,D116,1,Private,684,Recovered,No,2.0,Central,Pending
+HV1677,P2622,50,Female,2024-06-20,2024-06-27,Dermatology,Dermatitis,Observation,D119,7,Government,248,Ongoing,Yes,1.0,North,Pending
+HV1678,P2524,31,Female,2024-04-20,2024-04-21,Dermatology,Skin Infection,Surgery,D125,1,Government,9824,Deceased,No,5.0,Central,Insurance Processing
+HV1679,P2053,39,Female,2024-12-03,2024-12-04,Obstetrics,Childbirth,Therapy,D113,1,None,1499,Referred,Yes,4.0,West,Insurance Processing
+HV1680,P2119,27,Male,2024-08-15,2024-08-19,Dermatology,Dermatitis,Medication,D123,4,Government,178,Recovered,No,2.0,North,Insurance Processing
+HV1681,P2251,25,Female,2024-12-11,2024-12-13,Orthopedics,Dislocation,Therapy,D119,2,Private,833,Recovered,No,,North,Paid
+HV1682,P2465,61,Male,2024-03-26,2024-03-29,Emergency,Severe Dehydration,Therapy,D136,3,Government,913,Recovered,Yes,1.0,North,Insurance Processing
+HV1683,P2543,16,Female,2024-08-04,2024-08-05,Gynecology,Fibroids,Observation,D136,1,Private,272,Recovered,Yes,1.0,West,Pending
+HV1684,P2419,27,Female,2024-08-11,2024-08-12,Neurology,Migraine,Surgery,D112,1,Government,2686,Recovered,No,,East,Pending
+HV1685,P2329,40,Female,2024-03-31,2024-04-03,Neurology,Stroke,Surgery,D120,3,Government,6240,Ongoing,No,3.0,West,Pending
+HV1686,P2327,46,Male,2024-03-14,2024-03-17,Cardiology,Heart Failure,Observation,D134,3,Private,277,Recovered,No,4.0,East,Paid
+HV1687,P2174,20,Female,2024-05-12,2024-05-13,Emergency,Food Poisoning,Therapy,D110,1,Private,2583,Ongoing,Yes,1.0,East,Paid
+HV1688,P2379,16,Male,2024-05-24,2024-06-02,Dermatology,Dermatitis,Surgery,D130,9,Private,5640,Recovered,Yes,3.0,Central,Pending
+HV1689,P2081,52,Male,2024-02-08,2024-02-09,Gynecology,Fibroids,Therapy,D118,1,Government,803,Ongoing,No,1.0,West,Paid
+HV1690,P2572,49,Male,2024-11-20,2024-11-21,Cardiology,Heart Failure,Surgery,D138,1,Private,4173,Ongoing,No,3.0,North,Paid
+HV1691,P2651,69,Male,2024-09-21,2024-09-24,Oncology,Lung Cancer,Observation,D105,3,Government,191,Recovered,No,,North,Insurance Processing
+HV1692,P2358,47,Female,2024-09-28,2024-10-03,Orthopedics,Knee Injury,Surgery,D119,5,Government,6897,Recovered,Yes,1.0,West,Pending
+HV1693,P2458,54,Female,2024-05-06,2024-05-12,Dermatology,Skin Infection,Surgery,D130,6,None,4847,Recovered,No,4.0,East,Insurance Processing
+HV1694,P2241,32,Male,2024-05-28,2024-05-30,Neurology,Epilepsy,Surgery,D127,2,Private,7529,Ongoing,No,4.0,West,Paid
+HV1695,P2275,33,Female,2024-04-22,2024-04-23,Gynecology,Fibroids,Therapy,D129,1,Private,1182,Recovered,No,2.0,Central,Insurance Processing
+HV1696,P2022,22,Female,2024-02-16,2024-02-20,Gynecology,Ovarian Cyst,Medication,D104,4,Government,470,Recovered,Yes,3.0,North,Pending
+HV1697,P2340,32,Female,2024-04-20,2024-04-21,Oncology,Lung Cancer,Medication,D102,1,Government,639,Recovered,No,3.0,Central,Paid
+HV1698,P2647,39,Male,2024-01-18,2024-01-21,Neurology,Epilepsy,Medication,D125,3,Government,234,Recovered,No,1.0,Central,Insurance Processing
+HV1699,P2555,67,Male,2024-02-18,2024-02-19,Dermatology,Skin Infection,Therapy,D121,1,Private,1737,Recovered,No,4.0,West,Pending
+HV1700,P2096,29,Male,2024-07-27,2024-07-29,Neurology,Migraine,Therapy,D135,2,Government,570,Recovered,Yes,4.0,North,Insurance Processing
+HV1701,P2026,83,Female,2024-04-28,2024-04-29,Obstetrics,Childbirth,Observation,D137,1,Private,422,Recovered,Yes,2.0,East,Insurance Processing
+HV1702,P2256,56,Male,2024-03-13,2024-03-14,Dermatology,Dermatitis,Surgery,D104,1,Government,4551,Recovered,No,,East,Paid
+HV1703,P2275,52,Male,2024-10-14,2024-10-15,Obstetrics,Childbirth,Therapy,D116,1,Private,2607,Recovered,Yes,4.0,Central,Pending
+HV1704,P2131,45,Male,2024-03-23,2024-03-25,Emergency,Food Poisoning,Surgery,D129,2,None,9254,Recovered,No,2.0,East,Pending
+HV1705,P2010,42,Female,2024-03-01,2024-03-03,Dermatology,Dermatitis,Therapy,D134,2,Private,2809,Recovered,Yes,5.0,West,Insurance Processing
+HV1706,P2620,34,Female,2024-08-29,2024-08-31,Obstetrics,Childbirth,Therapy,D109,2,Private,540,Recovered,Yes,3.0,North,Paid
+HV1707,P2097,20,Female,2024-06-18,2024-06-20,Emergency,Malaria,Observation,D139,2,Private,215,Recovered,Yes,3.0,West,Pending
+HV1708,P2599,30,Female,2024-07-07,2024-07-08,Dermatology,Dermatitis,Surgery,D105,1,Government,4293,Recovered,No,3.0,West,Insurance Processing
+HV1709,P2631,74,Female,2024-04-17,2024-04-20,Orthopedics,Fracture,Surgery,D114,3,Private,3174,Recovered,Yes,1.0,North,Insurance Processing
+HV1710,P2451,55,Female,2024-12-06,2024-12-07,Obstetrics,Childbirth,Therapy,D133,1,Government,2794,Recovered,No,3.0,West,Insurance Processing
+HV1711,P2081,74,Male,2024-03-26,2024-03-27,Neurology,Epilepsy,Surgery,D128,1,Government,7614,Recovered,No,2.0,Central,Pending
+HV1712,P2478,34,Female,2024-08-05,2024-08-06,Oncology,Colon Cancer,Surgery,D125,1,Private,5621,Recovered,No,3.0,Central,Pending
+HV1713,P2260,26,Male,2024-11-06,2024-11-07,Neurology,Stroke,Therapy,D131,1,Private,1623,Ongoing,No,5.0,East,Pending
+HV1714,P2178,45,Female,2024-11-27,2024-11-28,Emergency,Malaria,Therapy,D102,1,Government,1224,Ongoing,Yes,1.0,East,Insurance Processing
+HV1715,P2064,31,Female,2024-02-19,2024-02-23,Neurology,Stroke,Medication,D122,4,None,424,Recovered,Yes,,East,Pending
+HV1716,P2684,49,Male,2024-02-03,2024-02-09,Oncology,Colon Cancer,Surgery,D118,6,Private,4257,Recovered,Yes,,Central,Pending
+HV1717,P2281,16,Female,2024-03-01,2024-03-04,Gynecology,Ovarian Cyst,Medication,D137,3,None,190,Recovered,No,5.0,Central,Paid
+HV1718,P2011,9,Male,2024-11-22,2024-11-23,Gynecology,Ovarian Cyst,Medication,D116,1,Private,797,Recovered,No,,West,Paid
+HV1719,P2286,51,Male,2024-10-16,2024-10-19,Gynecology,Ovarian Cyst,Surgery,D113,3,Private,4416,Recovered,No,3.0,West,Pending
+HV1720,P2658,75,Female,2024-11-19,2024-11-20,Orthopedics,Fracture,Observation,D110,1,Government,430,Ongoing,Yes,3.0,West,Paid
+HV1721,P2526,52,Male,2024-05-12,2024-05-13,Oncology,Leukemia,Therapy,D103,1,None,1263,Recovered,No,,Central,Pending
+HV1722,P2108,55,Female,2024-01-05,2024-01-06,Orthopedics,Knee Injury,Observation,D122,1,Private,283,Recovered,Yes,1.0,East,Insurance Processing
+HV1723,P2468,46,Female,2024-07-23,2024-07-26,Obstetrics,Childbirth,Therapy,D124,3,Government,2143,Ongoing,Yes,4.0,East,Pending
+HV1724,P2592,48,Female,2024-10-30,2024-10-31,Cardiology,Heart Failure,Surgery,D120,1,None,9794,Recovered,No,1.0,Central,Pending
+HV1725,P2145,19,Female,2024-08-22,2024-08-23,Dermatology,Skin Infection,Observation,D101,1,Government,257,Recovered,Yes,4.0,Central,Insurance Processing
+HV1726,P2251,31,Male,2024-12-16,2024-12-19,Gynecology,Fibroids,Observation,D111,3,Private,301,Ongoing,No,4.0,North,Paid
+HV1727,P2397,67,Male,2024-06-11,2024-06-15,Orthopedics,Knee Injury,Therapy,D119,4,None,2945,Recovered,Yes,2.0,North,Paid
+HV1728,P2378,25,Female,2024-06-23,2024-07-07,Cardiology,Heart Attack,Medication,D115,14,Private,292,Recovered,Yes,4.0,North,Pending
+HV1729,P2319,39,Female,2024-12-11,2024-12-18,Obstetrics,Childbirth,Therapy,D127,7,Private,2619,Recovered,Yes,,East,Paid
+HV1730,P2165,66,Female,2024-03-06,2024-03-08,Dermatology,Dermatitis,Medication,D132,2,Government,786,Recovered,Yes,5.0,East,Insurance Processing
+HV1731,P2382,47,Female,2024-12-30,2025-01-01,Gynecology,Ovarian Cyst,Medication,D112,2,None,644,Recovered,No,2.0,East,Pending
+HV1732,P2050,48,Female,2024-05-24,2024-05-25,Cardiology,Hypertension,Observation,D130,1,Private,317,Recovered,Yes,5.0,West,Paid
+HV1733,P2301,39,Female,2024-08-01,2024-08-06,Cardiology,Heart Attack,Therapy,D120,5,Government,957,Recovered,Yes,2.0,Central,Insurance Processing
+HV1734,P2097,57,Male,2024-03-15,2024-03-16,Obstetrics,Childbirth,Therapy,D123,1,None,1499,Recovered,Yes,1.0,West,Pending
+HV1735,P2040,62,Male,2024-11-07,2024-11-08,Emergency,Severe Dehydration,Medication,D122,1,None,409,Recovered,Yes,4.0,Central,Paid
+HV1736,P2585,30,Female,2024-06-04,2024-06-05,Oncology,Colon Cancer,Medication,D124,1,Government,320,Recovered,Yes,5.0,East,Paid
+HV1737,P2695,21,Female,2024-05-19,2024-05-27,Cardiology,Heart Attack,Surgery,D102,8,Government,4250,Ongoing,No,1.0,North,Paid
+HV1738,P2019,11,Female,2024-04-23,2024-04-24,Emergency,Appendicitis,Observation,D138,1,Private,299,Recovered,No,3.0,West,Pending
+HV1739,P2456,54,Male,2024-08-24,2024-08-25,Obstetrics,Childbirth,Surgery,D125,1,Private,9927,Recovered,No,1.0,North,Insurance Processing
+HV1740,P2543,51,Female,2024-06-04,2024-06-11,Neurology,Migraine,Observation,D130,7,Private,419,Recovered,Yes,3.0,East,Paid
+HV1741,P2385,89,Male,2024-07-12,2024-07-14,Emergency,Malaria,Observation,D114,2,Private,191,Ongoing,No,5.0,East,Pending
+HV1742,P2223,46,Female,2024-11-02,2024-11-03,Neurology,Migraine,Therapy,D107,1,Government,1801,Recovered,No,4.0,East,Pending
+HV1743,P2461,43,Male,2024-03-31,2024-04-06,Dermatology,Dermatitis,Medication,D135,6,None,575,Recovered,No,4.0,North,Insurance Processing
+HV1744,P2030,49,Male,2024-03-11,2024-03-15,Emergency,Severe Dehydration,Medication,D121,4,Government,270,Referred,Yes,,East,Insurance Processing
+HV1745,P2524,50,Male,2024-03-23,2024-03-24,Obstetrics,Childbirth,Surgery,D112,1,Government,3086,Recovered,No,4.0,North,Insurance Processing
+HV1746,P2618,41,Female,2024-05-03,2024-05-04,Orthopedics,Knee Injury,Medication,D139,1,None,263,Recovered,Yes,,East,Insurance Processing
+HV1747,P2482,31,Female,2024-02-06,2024-02-09,Dermatology,Dermatitis,Medication,D139,3,Government,646,Recovered,No,,Central,Pending
+HV1748,P2410,45,Female,2024-08-07,2024-08-10,Emergency,Malaria,Surgery,D117,3,Government,7914,Recovered,Yes,2.0,East,Paid
+HV1749,P2271,44,Male,2024-06-17,2024-06-22,Emergency,Severe Dehydration,Observation,D116,5,Government,327,Recovered,No,5.0,West,Insurance Processing
+HV1750,P2037,44,Male,2024-03-16,2024-03-18,Neurology,Stroke,Surgery,D124,2,Government,9739,Recovered,No,,East,Insurance Processing
+HV1751,P2302,59,Male,2024-12-21,2024-12-25,Orthopedics,Fracture,Therapy,D125,4,Private,614,Recovered,Yes,3.0,West,Insurance Processing
+HV1752,P2521,45,Female,2024-09-01,2024-09-02,Orthopedics,Knee Injury,Surgery,D138,1,None,5066,Recovered,Yes,5.0,East,Paid
+HV1753,P2496,21,Female,2024-01-08,2024-01-09,Emergency,Appendicitis,Surgery,D120,1,Private,6985,Recovered,Yes,3.0,East,Pending
+HV1754,P2584,34,Male,2024-09-25,2024-09-26,Oncology,Colon Cancer,Surgery,D124,1,Government,9799,Recovered,Yes,1.0,East,Insurance Processing
+HV1755,P2536,41,Male,2024-05-05,2024-05-06,Neurology,Epilepsy,Surgery,D116,1,Private,2329,Recovered,Yes,,Central,Paid
+HV1756,P2536,46,Female,2024-02-01,2024-02-11,Oncology,Lung Cancer,Surgery,D138,10,Government,2805,Recovered,Yes,2.0,East,Paid
+HV1757,P2453,54,Male,2024-08-31,2024-09-01,Oncology,Lung Cancer,Surgery,D139,1,Government,6765,Recovered,No,,North,Insurance Processing
+HV1758,P2651,46,Female,2024-01-01,2024-01-02,Neurology,Migraine,Therapy,D132,1,Government,2577,Recovered,No,5.0,North,Pending
+HV1759,P2282,9,Female,2024-11-16,2024-11-17,Obstetrics,Childbirth,Surgery,D132,1,Private,6061,Ongoing,No,1.0,East,Pending
+HV1760,P2654,23,Male,2024-04-09,2024-04-11,Emergency,Food Poisoning,Surgery,D120,2,Government,5865,Ongoing,Yes,5.0,North,Pending
+HV1761,P2161,55,Male,2024-07-21,2024-07-24,Orthopedics,Fracture,Surgery,D121,3,None,8461,Recovered,No,4.0,West,Pending
+HV1762,P2149,41,Female,2024-06-19,2024-06-20,Gynecology,Ovarian Cyst,Observation,D120,1,Private,490,Recovered,No,3.0,North,Pending
+HV1763,P2281,71,Male,2024-12-26,2025-01-10,Oncology,Lung Cancer,Therapy,D119,15,None,1818,Recovered,Yes,2.0,East,Pending
+HV1764,P2110,47,Male,2024-05-04,2024-05-16,Orthopedics,Knee Injury,Observation,D138,12,Government,461,Recovered,No,1.0,Central,Paid
+HV1765,P2655,38,Female,2024-05-21,2024-05-22,Gynecology,Ovarian Cyst,Therapy,D108,1,Government,1829,Recovered,Yes,5.0,West,Insurance Processing
+HV1766,P2205,33,Male,2024-08-12,2024-08-15,Oncology,Leukemia,Therapy,D136,3,Government,589,Ongoing,No,3.0,East,Insurance Processing
+HV1767,P2220,39,Male,2024-06-13,2024-06-14,Obstetrics,Childbirth,Observation,D124,1,Private,409,Recovered,Yes,,East,Pending
+HV1768,P2406,47,Female,2024-01-25,2024-01-30,Cardiology,Arrhythmia,Medication,D137,5,Private,132,Recovered,No,,Central,Insurance Processing
+HV1769,P2078,45,Male,2024-10-12,2024-10-14,Emergency,Food Poisoning,Medication,D137,2,None,724,Recovered,No,4.0,East,Insurance Processing
+HV1770,P2156,62,Female,2024-02-07,2024-02-09,Orthopedics,Dislocation,Therapy,D130,2,Government,587,Recovered,No,1.0,Central,Paid
+HV1771,P2331,18,Female,2024-03-18,2024-03-19,Neurology,Stroke,Therapy,D135,1,Government,1320,Ongoing,Yes,2.0,North,Paid
+HV1772,P2316,20,Male,2024-02-21,2024-02-22,Cardiology,Hypertension,Surgery,D135,1,Private,9131,Recovered,Yes,3.0,North,Pending
+HV1773,P2278,40,Male,2024-04-21,2024-04-22,Gynecology,Fibroids,Surgery,D129,1,Private,5636,Recovered,Yes,4.0,East,Pending
+HV1774,P2204,54,Male,2024-07-13,2024-07-17,Emergency,Malaria,Surgery,D133,4,None,3334,Referred,No,,West,Pending
+HV1775,P2196,58,Male,2024-02-16,2024-02-17,Gynecology,Ovarian Cyst,Therapy,D133,1,Private,566,Recovered,Yes,3.0,West,Pending
+HV1776,P2067,34,Female,2024-11-29,2024-11-30,Neurology,Stroke,Medication,D125,1,None,116,Recovered,Yes,2.0,Central,Paid
+HV1777,P2532,1,Male,2024-03-12,2024-03-13,Obstetrics,Childbirth,Medication,D139,1,None,776,Recovered,Yes,2.0,North,Insurance Processing
+HV1778,P2685,35,Male,2024-07-05,2024-07-07,Emergency,Food Poisoning,Medication,D132,2,Private,513,Recovered,Yes,3.0,Central,Pending
+HV1779,P2036,52,Male,2024-07-27,2024-07-28,Cardiology,Heart Attack,Surgery,D111,1,Private,2754,Recovered,No,4.0,East,Insurance Processing
+HV1780,P2451,44,Male,2024-11-04,2024-11-05,Cardiology,Arrhythmia,Observation,D131,1,None,436,Referred,Yes,4.0,East,Insurance Processing
+HV1781,P2585,55,Male,2024-03-05,2024-03-07,Oncology,Colon Cancer,Surgery,D110,2,Private,7875,Recovered,Yes,2.0,West,Paid
+HV1782,P2676,66,Female,2024-06-17,2024-06-18,Obstetrics,Childbirth,Surgery,D121,1,Private,6746,Recovered,No,,Central,Paid
+HV1783,P2187,42,Male,2024-03-14,2024-03-16,Cardiology,Heart Failure,Surgery,D126,2,Private,5963,Ongoing,No,4.0,North,Pending
+HV1784,P2637,37,Female,2024-10-06,2024-10-10,Obstetrics,Childbirth,Therapy,D133,4,None,1263,Recovered,No,,Central,Insurance Processing
+HV1785,P2351,29,Female,2024-02-02,2024-02-03,Gynecology,Ovarian Cyst,Medication,D135,1,Private,332,Recovered,Yes,3.0,West,Pending
+HV1786,P2447,20,Male,2024-09-15,2024-09-16,Orthopedics,Knee Injury,Surgery,D110,1,None,3627,Recovered,Yes,5.0,Central,Insurance Processing
+HV1787,P2372,15,Male,2024-12-21,2024-12-25,Orthopedics,Knee Injury,Surgery,D107,4,Government,8907,Recovered,No,2.0,West,Paid
+HV1788,P2411,32,Female,2024-07-18,2024-07-21,Dermatology,Dermatitis,Observation,D121,3,Private,228,Recovered,Yes,,Central,Paid
+HV1789,P2421,63,Male,2024-03-14,2024-03-15,Obstetrics,Childbirth,Surgery,D126,1,Government,5203,Ongoing,Yes,2.0,West,Paid
+HV1790,P2412,57,Male,2024-10-26,2024-10-27,Orthopedics,Fracture,Observation,D110,1,Government,160,Recovered,No,2.0,East,Pending
+HV1791,P2128,36,Female,2024-03-19,2024-03-25,Emergency,Appendicitis,Therapy,D103,6,Private,962,Recovered,No,3.0,North,Insurance Processing
+HV1792,P2106,83,Male,2024-11-04,2024-11-07,Gynecology,Fibroids,Observation,D128,3,Private,494,Recovered,No,3.0,West,Pending
+HV1793,P2683,34,Female,2024-07-01,2024-07-07,Emergency,Malaria,Medication,D132,6,Private,606,Recovered,No,5.0,East,Insurance Processing
+HV1794,P2532,68,Female,2024-01-22,2024-01-23,Emergency,Malaria,Medication,D108,1,None,344,Recovered,No,,Central,Pending
+HV1795,P2663,73,Female,2024-08-23,2024-08-25,Cardiology,Heart Attack,Observation,D102,2,Private,268,Ongoing,Yes,,East,Pending
+HV1796,P2368,53,Female,2024-06-29,2024-07-01,Oncology,Leukemia,Observation,D104,2,Private,182,Ongoing,No,,East,Pending
+HV1797,P2177,32,Female,2024-02-15,2024-02-18,Gynecology,Ovarian Cyst,Surgery,D121,3,None,7238,Recovered,Yes,4.0,North,Pending
+HV1798,P2498,38,Female,2024-06-21,2024-06-22,Obstetrics,Childbirth,Surgery,D111,1,Private,6766,Recovered,No,5.0,North,Pending
+HV1799,P2634,48,Male,2024-04-11,2024-04-12,Emergency,Malaria,Observation,D117,1,Private,303,Recovered,No,5.0,Central,Pending
+HV1800,P2231,20,Female,2024-01-21,2024-01-22,Oncology,Colon Cancer,Surgery,D118,1,Private,4009,Ongoing,Yes,1.0,West,Paid
+HV1801,P2022,27,Female,2024-08-12,2024-08-16,Dermatology,Skin Infection,Observation,D112,4,None,394,Referred,No,,West,Pending
+HV1802,P2442,26,Female,2024-07-05,2024-07-06,Oncology,Leukemia,Therapy,D105,1,None,1817,Recovered,Yes,1.0,East,Insurance Processing
+HV1803,P2322,54,Male,2024-11-05,2024-11-06,Oncology,Colon Cancer,Therapy,D136,1,None,2405,Recovered,No,4.0,East,Paid
+HV1804,P2176,66,Male,2024-10-13,2024-10-14,Obstetrics,Childbirth,Therapy,D131,1,None,761,Recovered,No,,Central,Insurance Processing
+HV1805,P2613,57,Female,2024-08-08,2024-08-09,Orthopedics,Knee Injury,Surgery,D129,1,Private,4707,Ongoing,No,2.0,West,Paid
+HV1806,P2625,62,Male,2024-12-30,2025-01-01,Gynecology,Fibroids,Medication,D140,2,Private,523,Recovered,Yes,2.0,Central,Insurance Processing
+HV1807,P2507,31,Male,2024-06-18,2024-06-19,Emergency,Malaria,Observation,D137,1,Government,456,Ongoing,Yes,1.0,West,Pending
+HV1808,P2182,39,Female,2024-05-09,2024-05-11,Obstetrics,Childbirth,Surgery,D117,2,Private,7302,Recovered,Yes,5.0,West,Paid
+HV1809,P2621,40,Male,2024-10-12,2024-10-16,Cardiology,Arrhythmia,Medication,D111,4,Private,641,Recovered,No,1.0,North,Paid
+HV1810,P2652,53,Female,2024-04-03,2024-04-04,Oncology,Leukemia,Medication,D110,1,Government,687,Ongoing,Yes,5.0,North,Pending
+HV1811,P2032,83,Male,2024-10-02,2024-10-12,Emergency,Appendicitis,Therapy,D107,10,Private,2917,Recovered,Yes,5.0,West,Pending
+HV1812,P2675,33,Female,2024-08-17,2024-08-28,Emergency,Malaria,Therapy,D116,11,Private,2510,Recovered,No,,Central,Insurance Processing
+HV1813,P2094,61,Female,2024-09-26,2024-09-28,Dermatology,Skin Infection,Therapy,D121,2,Private,1699,Recovered,Yes,4.0,Central,Pending
+HV1814,P2107,72,Female,2024-10-14,2024-10-19,Obstetrics,Childbirth,Therapy,D132,5,None,725,Recovered,Yes,,West,Insurance Processing
+HV1815,P2050,54,Male,2024-01-25,2024-01-28,Neurology,Migraine,Surgery,D123,3,None,8050,Recovered,No,,Central,Paid
+HV1816,P2102,38,Female,2024-04-05,2024-04-12,Oncology,Colon Cancer,Therapy,D105,7,Government,1346,Recovered,No,2.0,Central,Pending
+HV1817,P2005,29,Male,2024-12-03,2024-12-04,Gynecology,Fibroids,Observation,D115,1,Private,172,Recovered,No,4.0,West,Paid
+HV1818,P2670,26,Female,2024-07-28,2024-07-29,Cardiology,Heart Attack,Observation,D125,1,Private,2442,Recovered,No,2.0,North,Paid
+HV1819,P2653,9,Male,2024-02-29,2024-03-02,Orthopedics,Knee Injury,Medication,D112,2,Government,271,Recovered,No,5.0,West,Pending
+HV1820,P2584,41,Female,2024-02-25,2024-03-02,Emergency,Severe Dehydration,Surgery,D106,6,Government,3041,Recovered,Yes,1.0,North,Paid
+HV1821,P2398,40,Male,2024-02-12,2024-02-15,Emergency,Food Poisoning,Observation,D140,3,Private,493,Referred,Yes,2.0,West,Paid
+HV1822,P2583,60,Male,2024-03-19,2024-03-24,Gynecology,Ovarian Cyst,Surgery,D123,5,Government,5205,Recovered,Yes,2.0,North,Insurance Processing
+HV1823,P2200,34,Female,2024-12-02,2024-12-07,Obstetrics,Childbirth,Observation,D105,5,None,385,Recovered,No,1.0,Central,Insurance Processing
+HV1824,P2067,41,Female,2024-09-22,2024-09-26,Cardiology,Heart Failure,Therapy,D124,4,Private,4371,Ongoing,Yes,2.0,Central,Insurance Processing
+HV1825,P2559,50,Male,2024-01-11,2024-01-12,Obstetrics,Childbirth,Therapy,D140,1,Private,2509,Deceased,No,4.0,North,Pending
+HV1826,P2550,53,Female,2024-04-24,2024-04-28,Orthopedics,Knee Injury,Surgery,D125,4,None,8062,Recovered,Yes,4.0,East,Insurance Processing
+HV1827,P2555,58,Male,2024-07-24,2024-07-27,Orthopedics,Dislocation,Therapy,D114,3,None,2211,Referred,No,3.0,West,Pending
+HV1828,P2682,48,Female,2024-03-09,2024-03-21,Oncology,Lung Cancer,Surgery,D113,12,Government,9375,Ongoing,No,3.0,West,Paid
+HV1829,P2403,21,Male,2024-08-28,2024-09-05,Emergency,Severe Dehydration,Therapy,D140,8,Private,1389,Recovered,No,2.0,East,Paid
+HV1830,P2212,52,Female,2024-10-17,2024-10-22,Orthopedics,Knee Injury,Surgery,D126,5,Government,5369,Ongoing,Yes,4.0,West,Insurance Processing
+HV1831,P2628,33,Male,2024-12-12,2024-12-13,Emergency,Malaria,Medication,D102,1,Private,154,Ongoing,Yes,,North,Paid
+HV1832,P2315,67,Male,2024-07-04,2024-07-07,Gynecology,Ovarian Cyst,Observation,D122,3,Government,387,Ongoing,Yes,4.0,Central,Insurance Processing
+HV1833,P2634,45,Female,2024-03-22,2024-03-24,Obstetrics,Childbirth,Surgery,D108,2,Government,2795,Ongoing,No,4.0,East,Paid
+HV1834,P2021,49,Female,2024-08-13,2024-08-14,Orthopedics,Knee Injury,Medication,D132,1,None,680,Ongoing,Yes,2.0,North,Insurance Processing
+HV1835,P2308,90,Female,2024-03-17,2024-03-19,Emergency,Food Poisoning,Therapy,D119,2,Government,11712,Deceased,No,3.0,North,Insurance Processing
+HV1836,P2287,58,Male,2024-09-07,2024-09-10,Gynecology,Fibroids,Medication,D116,3,Government,369,Recovered,No,,Central,Pending
+HV1837,P2565,51,Male,2024-03-07,2024-03-11,Cardiology,Hypertension,Therapy,D125,4,Private,2056,Recovered,No,3.0,West,Insurance Processing
+HV1838,P2435,42,Female,2024-12-28,2024-12-29,Gynecology,Fibroids,Therapy,D117,1,Government,1653,Ongoing,Yes,,West,Insurance Processing
+HV1839,P2117,22,Male,2024-03-06,2024-03-07,Emergency,Food Poisoning,Medication,D112,1,Private,257,Ongoing,Yes,,Central,Insurance Processing
+HV1840,P2350,41,Male,2024-03-20,2024-03-24,Obstetrics,Childbirth,Medication,D140,4,Private,242,Recovered,Yes,1.0,East,Insurance Processing
+HV1841,P2239,29,Male,2024-01-26,2024-01-27,Emergency,Severe Dehydration,Therapy,D134,1,Private,2528,Recovered,Yes,4.0,North,Insurance Processing
+HV1842,P2007,75,Male,2024-03-31,2024-04-02,Oncology,Leukemia,Surgery,D135,2,Government,7757,Recovered,No,2.0,North,Pending
+HV1843,P2651,52,Female,2024-11-03,2024-11-04,Dermatology,Dermatitis,Surgery,D128,1,Private,6346,Referred,No,3.0,North,Paid
+HV1844,P2064,66,Male,2024-09-09,2024-09-11,Gynecology,Fibroids,Observation,D106,2,Government,445,Recovered,No,,Central,Insurance Processing
+HV1845,P2269,34,Female,2024-08-18,2024-08-19,Gynecology,Ovarian Cyst,Therapy,D132,1,Private,1783,Recovered,Yes,,West,Pending
+HV1846,P2477,30,Female,2024-06-15,2024-06-24,Dermatology,Dermatitis,Observation,D129,9,Private,112,Ongoing,No,,North,Pending
+HV1847,P2375,56,Male,2024-08-10,2024-08-11,Orthopedics,Fracture,Surgery,D114,1,Private,3227,Recovered,No,2.0,West,Insurance Processing
+HV1848,P2285,29,Male,2024-04-07,2024-04-08,Obstetrics,Childbirth,Observation,D128,1,None,440,Referred,Yes,3.0,East,Insurance Processing
+HV1849,P2297,37,Male,2024-04-30,2024-05-06,Obstetrics,Childbirth,Observation,D132,6,Private,422,Recovered,Yes,5.0,North,Insurance Processing
+HV1850,P2289,76,Female,2024-07-10,2024-07-16,Orthopedics,Knee Injury,Observation,D105,6,Private,207,Recovered,No,,East,Pending
+HV1851,P2569,37,Female,2024-10-22,2024-10-24,Gynecology,Fibroids,Surgery,D121,2,Government,7800,Ongoing,Yes,4.0,East,Paid
+HV1852,P2321,19,Male,2024-07-15,2024-07-18,Orthopedics,Dislocation,Therapy,D106,3,Government,2968,Recovered,Yes,3.0,North,Pending
+HV1853,P2061,13,Female,2024-05-06,2024-05-07,Oncology,Colon Cancer,Medication,D121,1,Private,735,Referred,No,3.0,North,Insurance Processing
+HV1854,P2193,17,Male,2024-05-31,2024-06-04,Cardiology,Heart Failure,Therapy,D116,4,Government,544,Recovered,Yes,,East,Paid
+HV1855,P2378,67,Female,2024-03-16,2024-03-17,Obstetrics,Childbirth,Surgery,D139,1,Private,9675,Recovered,No,3.0,North,Insurance Processing
+HV1856,P2132,35,Female,2024-01-09,2024-01-12,Emergency,Malaria,Therapy,D136,3,Government,1791,Recovered,No,,West,Pending
+HV1857,P2183,90,Female,2024-11-09,2024-11-10,Cardiology,Arrhythmia,Therapy,D137,1,Government,2595,Recovered,Yes,1.0,North,Paid
+HV1858,P2105,72,Male,2024-12-31,2025-01-02,Oncology,Lung Cancer,Therapy,D123,2,Private,1907,Recovered,No,,East,Insurance Processing
+HV1859,P2159,81,Male,2024-04-16,2024-04-18,Obstetrics,Childbirth,Medication,D117,2,Private,157,Recovered,No,1.0,Central,Paid
+HV1860,P2239,63,Male,2024-03-11,2024-03-12,Gynecology,Ovarian Cyst,Observation,D126,1,Private,442,Recovered,Yes,1.0,North,Insurance Processing
+HV1861,P2037,55,Male,2024-04-27,2024-05-02,Obstetrics,Childbirth,Therapy,D106,5,Government,2585,Recovered,Yes,,West,Pending
+HV1862,P2570,30,Female,2024-09-18,2024-09-19,Dermatology,Skin Infection,Surgery,D139,1,Private,9355,Recovered,No,1.0,East,Insurance Processing
+HV1863,P2668,44,Female,2024-04-14,2024-04-15,Orthopedics,Fracture,Medication,D125,1,None,310,Recovered,Yes,5.0,West,Pending
+HV1864,P2475,57,Male,2024-11-27,2024-12-01,Oncology,Colon Cancer,Therapy,D114,4,Government,550,Recovered,No,,West,Pending
+HV1865,P2401,62,Male,2024-09-08,2024-09-10,Obstetrics,Childbirth,Surgery,D105,2,Government,7073,Referred,Yes,3.0,East,Pending
+HV1866,P2582,24,Male,2024-02-19,2024-02-20,Cardiology,Arrhythmia,Surgery,D113,1,None,4293,Recovered,Yes,1.0,West,Paid
+HV1867,P2270,41,Female,2024-04-14,2024-04-15,Emergency,Malaria,Observation,D112,1,Private,396,Recovered,Yes,,East,Paid
+HV1868,P2157,43,Male,2024-02-03,2024-02-05,Dermatology,Dermatitis,Medication,D103,2,Government,576,Recovered,Yes,3.0,West,Insurance Processing
+HV1869,P2491,42,Male,2024-05-16,2024-05-19,Cardiology,Arrhythmia,Surgery,D116,3,Government,9155,Recovered,No,2.0,Central,Pending
+HV1870,P2373,26,Male,2024-11-02,2024-11-05,Gynecology,Ovarian Cyst,Observation,D135,3,Private,382,Recovered,No,4.0,North,Insurance Processing
+HV1871,P2412,78,Female,2024-08-27,2024-08-31,Gynecology,Ovarian Cyst,Surgery,D132,4,Government,9875,Recovered,Yes,3.0,West,Insurance Processing
+HV1872,P2478,40,Female,2024-10-03,2024-10-08,Orthopedics,Fracture,Therapy,D133,5,None,1094,Ongoing,Yes,5.0,North,Paid
+HV1873,P2406,27,Male,2024-08-02,2024-08-03,Emergency,Malaria,Medication,D137,1,Private,663,Ongoing,No,1.0,West,Insurance Processing
+HV1874,P2383,78,Female,2024-09-24,2024-09-25,Dermatology,Skin Infection,Therapy,D127,1,Government,1424,Ongoing,Yes,,Central,Insurance Processing
+HV1875,P2111,72,Female,2024-03-14,2024-03-15,Emergency,Appendicitis,Surgery,D126,1,Private,7228,Recovered,Yes,1.0,West,Paid
+HV1876,P2213,47,Male,2024-12-14,2024-12-15,Emergency,Malaria,Therapy,D129,1,None,9820,Recovered,No,2.0,West,Pending
+HV1877,P2635,13,Female,2024-11-21,2024-11-29,Cardiology,Heart Attack,Medication,D132,8,Private,131,Recovered,Yes,4.0,West,Insurance Processing
+HV1878,P2503,36,Male,2024-07-13,2024-07-19,Cardiology,Heart Attack,Medication,D131,6,Private,194,Recovered,Yes,4.0,East,Insurance Processing
+HV1879,P2346,16,Male,2024-11-05,2024-11-10,Obstetrics,Childbirth,Therapy,D120,5,Government,1387,Recovered,Yes,5.0,East,Paid
+HV1880,P2515,54,Male,2024-08-25,2024-08-26,Neurology,Epilepsy,Observation,D135,1,Government,160,Recovered,No,3.0,North,Paid
+HV1881,P2298,35,Female,2024-08-06,2024-08-07,Emergency,Food Poisoning,Medication,D113,1,Government,355,Recovered,Yes,4.0,Central,Pending
+HV1882,P2188,44,Male,2024-06-23,2024-06-24,Obstetrics,Childbirth,Observation,D108,1,Private,409,Recovered,No,,East,Paid
+HV1883,P2538,76,Female,2024-11-21,2024-11-24,Emergency,Severe Dehydration,Observation,D103,3,Private,133,Ongoing,No,4.0,East,Insurance Processing
+HV1884,P2250,34,Male,2024-03-02,2024-03-04,Cardiology,Heart Failure,Medication,D137,2,Private,301,Recovered,Yes,,North,Insurance Processing
+HV1885,P2424,53,Male,2024-10-13,2024-10-14,Cardiology,Heart Failure,Surgery,D110,1,Private,5046,Recovered,No,5.0,Central,Pending
+HV1886,P2141,58,Female,2024-05-04,2024-05-13,Obstetrics,Childbirth,Surgery,D131,9,Government,3412,Recovered,Yes,2.0,North,Insurance Processing
+HV1887,P2149,67,Male,2024-09-01,2024-09-02,Emergency,Food Poisoning,Surgery,D127,1,None,8782,Ongoing,Yes,3.0,East,Paid
+HV1888,P2198,43,Female,2024-07-19,2024-07-20,Obstetrics,Childbirth,Surgery,D131,1,Government,7292,Recovered,No,4.0,Central,Pending
+HV1889,P2615,41,Male,2024-08-01,2024-08-02,Emergency,Malaria,Surgery,D103,1,Private,5805,Ongoing,No,5.0,West,Pending
+HV1890,P2482,40,Female,2024-07-16,2024-07-17,Orthopedics,Knee Injury,Therapy,D106,1,Government,2682,Recovered,No,3.0,West,Insurance Processing
+HV1891,P2526,51,Male,2024-06-09,2024-06-13,Gynecology,Fibroids,Surgery,D123,4,None,6240,Recovered,No,,North,Insurance Processing
+HV1892,P2143,71,Female,2024-04-07,2024-04-08,Gynecology,Ovarian Cyst,Surgery,D130,1,Government,7935,Recovered,Yes,5.0,West,Paid
+HV1893,P2664,40,Female,2024-07-10,2024-07-12,Oncology,Leukemia,Observation,D118,2,None,174,Recovered,Yes,4.0,East,Paid
+HV1894,P2069,1,Male,2024-05-10,2024-05-11,Obstetrics,Childbirth,Therapy,D133,1,Government,1588,Recovered,Yes,4.0,East,Pending
+HV1895,P2321,60,Male,2024-03-12,2024-03-18,Orthopedics,Fracture,Therapy,D104,6,Private,1636,Recovered,Yes,,East,Paid
+HV1896,P2041,46,Male,2024-01-06,2024-01-14,Emergency,Appendicitis,Therapy,D119,8,Private,1402,Recovered,No,2.0,North,Paid
+HV1897,P2567,54,Female,2024-04-22,2024-04-23,Orthopedics,Knee Injury,Surgery,D135,1,Government,6679,Referred,No,1.0,Central,Paid
+HV1898,P2417,16,Male,2024-05-03,2024-05-06,Obstetrics,Childbirth,Surgery,D115,3,Private,7498,Ongoing,No,4.0,North,Paid
+HV1899,P2103,35,Male,2024-07-28,2024-08-08,Obstetrics,Childbirth,Surgery,D125,11,None,6434,Ongoing,No,4.0,West,Pending
+HV1900,P2022,59,Female,2024-09-16,2024-09-17,Dermatology,Dermatitis,Surgery,D124,1,Private,8856,Recovered,No,2.0,North,Pending
+HV1901,P2362,22,Female,2024-05-20,2024-05-22,Oncology,Colon Cancer,Therapy,D115,2,Private,599,Recovered,No,,Central,Pending
+HV1902,P2586,53,Female,2024-07-03,2024-07-05,Dermatology,Skin Infection,Observation,D128,2,Government,230,Recovered,No,4.0,North,Paid
+HV1903,P2225,44,Male,2024-01-19,2024-01-20,Dermatology,Dermatitis,Medication,D115,1,Private,262,Recovered,No,4.0,North,Pending
+HV1904,P2146,31,Female,2024-05-22,2024-05-27,Orthopedics,Fracture,Observation,D120,5,Private,147,Recovered,Yes,3.0,East,Pending
+HV1905,P2172,30,Male,2024-01-09,2024-01-11,Oncology,Colon Cancer,Medication,D105,2,Government,375,Recovered,No,,North,Paid
+HV1906,P2547,26,Male,2024-05-05,2024-05-10,Cardiology,Arrhythmia,Surgery,D118,5,Government,6132,Recovered,No,2.0,North,Paid
+HV1907,P2624,46,Female,2024-10-20,2024-10-23,Neurology,Migraine,Surgery,D130,3,Private,3327,Recovered,No,2.0,Central,Pending
+HV1908,P2472,48,Female,2024-12-12,2024-12-14,Dermatology,Dermatitis,Observation,D134,2,Private,483,Recovered,No,2.0,East,Paid
+HV1909,P2038,38,Male,2024-02-07,2024-02-08,Gynecology,Ovarian Cyst,Medication,D139,1,None,491,Recovered,Yes,2.0,East,Insurance Processing
+HV1910,P2151,25,Female,2024-10-29,2024-10-30,Orthopedics,Dislocation,Therapy,D126,1,Private,1430,Recovered,No,3.0,North,Pending
+HV1911,P2134,1,Female,2024-01-27,2024-02-04,Oncology,Lung Cancer,Medication,D119,8,Private,458,Ongoing,Yes,5.0,West,Pending
+HV1912,P2525,52,Female,2024-01-21,2024-01-22,Obstetrics,Childbirth,Therapy,D122,1,Private,1179,Recovered,No,1.0,Central,Insurance Processing
+HV1913,P2224,61,Female,2024-01-13,2024-01-14,Obstetrics,Childbirth,Therapy,D140,1,Government,1837,Recovered,Yes,4.0,East,Pending
+HV1914,P2527,56,Male,2024-12-07,2024-12-08,Emergency,Food Poisoning,Observation,D122,1,Government,172,Recovered,No,3.0,East,Paid
+HV1915,P2043,82,Male,2024-06-04,2024-06-06,Cardiology,Heart Failure,Surgery,D127,2,Government,5497,Deceased,Yes,1.0,Central,Paid
+HV1916,P2039,41,Female,2024-09-04,2024-09-05,Emergency,Food Poisoning,Observation,D111,1,None,442,Ongoing,No,4.0,West,Insurance Processing
+HV1917,P2572,69,Female,2024-11-19,2024-11-23,Gynecology,Fibroids,Therapy,D139,4,Government,1426,Recovered,No,4.0,East,Paid
+HV1918,P2606,33,Female,2024-05-11,2024-05-12,Emergency,Food Poisoning,Surgery,D115,1,None,9415,Recovered,No,4.0,East,Pending
+HV1919,P2581,30,Female,2024-06-02,2024-06-03,Emergency,Food Poisoning,Surgery,D140,1,Government,8348,Recovered,No,4.0,North,Pending
+HV1920,P2485,47,Male,2024-06-19,2024-06-20,Gynecology,Fibroids,Therapy,D116,1,Government,2123,Ongoing,No,2.0,North,Pending
+HV1921,P2164,74,Female,2024-10-30,2024-11-05,Dermatology,Skin Infection,Medication,D106,6,Private,108,Recovered,Yes,1.0,Central,Pending
+HV1922,P2182,39,Male,2024-03-09,2024-03-21,Neurology,Migraine,Therapy,D137,12,Private,1768,Recovered,Yes,5.0,Central,Paid
+HV1923,P2175,16,Female,2024-09-08,2024-09-12,Emergency,Appendicitis,Therapy,D140,4,None,1665,Ongoing,Yes,,Central,Pending
+HV1924,P2622,60,Male,2024-12-18,2024-12-20,Neurology,Stroke,Observation,D122,2,Government,360,Recovered,No,4.0,North,Pending
+HV1925,P2683,43,Female,2024-04-17,2024-04-19,Oncology,Leukemia,Surgery,D110,2,Private,9169,Deceased,Yes,2.0,Central,Pending
+HV1926,P2341,50,Female,2024-10-23,2024-10-28,Oncology,Colon Cancer,Observation,D128,5,Private,400,Recovered,No,,Central,Pending
+HV1927,P2161,31,Female,2024-04-08,2024-04-09,Gynecology,Fibroids,Medication,D103,1,None,358,Referred,No,4.0,North,Pending
+HV1928,P2433,47,Female,2024-10-17,2024-10-18,Orthopedics,Fracture,Surgery,D117,1,Private,3213,Recovered,No,3.0,North,Insurance Processing
+HV1929,P2185,19,Female,2024-01-20,2024-01-24,Cardiology,Arrhythmia,Therapy,D140,4,Private,928,Recovered,Yes,2.0,West,Insurance Processing
+HV1930,P2675,78,Female,2024-09-28,2024-10-02,Dermatology,Skin Infection,Observation,D103,4,Government,375,Recovered,No,3.0,Central,Pending
+HV1931,P2604,64,Male,2024-08-30,2024-08-31,Dermatology,Dermatitis,Surgery,D121,1,None,4168,Ongoing,Yes,,West,Pending
+HV1932,P2272,46,Male,2024-09-28,2024-09-29,Oncology,Lung Cancer,Surgery,D129,1,Private,2391,Recovered,No,1.0,West,Insurance Processing
+HV1933,P2680,60,Male,2024-09-11,2024-09-14,Oncology,Colon Cancer,Therapy,D108,3,None,2796,Recovered,Yes,,East,Paid
+HV1934,P2337,33,Male,2024-09-02,2024-09-07,Cardiology,Hypertension,Surgery,D117,5,Private,5404,Recovered,Yes,3.0,Central,Pending
+HV1935,P2317,63,Male,2024-02-09,2024-02-16,Orthopedics,Fracture,Medication,D116,7,Private,376,Recovered,No,5.0,Central,Pending
+HV1936,P2685,38,Female,2024-02-12,2024-02-13,Gynecology,Fibroids,Therapy,D112,1,Private,2733,Ongoing,Yes,1.0,North,Paid
+HV1937,P2351,37,Male,2024-09-24,2024-09-30,Oncology,Leukemia,Therapy,D102,6,Private,2271,Recovered,Yes,2.0,East,Insurance Processing
+HV1938,P2069,27,Male,2024-12-02,2024-12-03,Obstetrics,Childbirth,Observation,D121,1,Government,331,Recovered,Yes,,West,Insurance Processing
+HV1939,P2347,52,Female,2024-01-04,2024-01-06,Gynecology,Ovarian Cyst,Medication,D109,2,None,708,Recovered,No,5.0,West,Paid
+HV1940,P2640,45,Male,2024-11-22,2024-12-02,Gynecology,Fibroids,Therapy,D135,10,None,659,Recovered,Yes,,West,Pending
+HV1941,P2157,70,Female,2024-06-23,2024-06-24,Dermatology,Skin Infection,Therapy,D105,1,Government,2166,Recovered,Yes,2.0,Central,Pending
+HV1942,P2117,25,Male,2024-05-15,2024-05-21,Gynecology,Ovarian Cyst,Medication,D112,6,Government,696,Ongoing,Yes,,West,Insurance Processing
+HV1943,P2674,52,Female,2024-02-21,2024-02-22,Dermatology,Skin Infection,Therapy,D127,1,Private,1602,Recovered,Yes,1.0,East,Paid
+HV1944,P2481,66,Female,2024-07-26,2024-07-29,Emergency,Appendicitis,Surgery,D138,3,None,4736,Ongoing,Yes,,Central,Pending
+HV1945,P2224,90,Male,2024-03-27,2024-04-02,Oncology,Leukemia,Medication,D134,6,None,690,Recovered,No,2.0,West,Pending
+HV1946,P2140,48,Female,2024-10-29,2024-10-30,Dermatology,Dermatitis,Therapy,D116,1,Government,2221,Recovered,Yes,4.0,North,Insurance Processing
+HV1947,P2260,38,Male,2024-10-22,2024-10-27,Orthopedics,Dislocation,Medication,D116,5,Private,141,Recovered,No,2.0,North,Pending
+HV1948,P2116,48,Male,2024-11-29,2024-12-02,Oncology,Colon Cancer,Medication,D101,3,Private,449,Recovered,Yes,3.0,West,Pending
+HV1949,P2388,68,Female,2024-08-15,2024-08-16,Oncology,Colon Cancer,Surgery,D114,1,Private,6013,Recovered,No,1.0,East,Pending
+HV1950,P2163,68,Male,2024-01-31,2024-02-01,Obstetrics,Childbirth,Surgery,D127,1,Private,4321,Ongoing,No,5.0,Central,Insurance Processing
+HV1951,P2466,42,Female,2024-06-04,2024-06-05,Oncology,Leukemia,Surgery,D118,1,None,3314,Ongoing,Yes,2.0,East,Pending
+HV1952,P2225,68,Male,2024-02-26,2024-02-27,Neurology,Epilepsy,Therapy,D134,1,Private,1613,Recovered,No,1.0,Central,Insurance Processing
+HV1953,P2110,44,Male,2024-05-24,2024-05-25,Neurology,Stroke,Surgery,D132,1,None,9853,Recovered,No,5.0,West,Paid
+HV1954,P2493,60,Male,2024-04-05,2024-04-06,Emergency,Appendicitis,Observation,D117,1,Government,421,Ongoing,No,1.0,East,Pending
+HV1955,P2640,54,Male,2024-05-05,2024-05-06,Gynecology,Fibroids,Therapy,D123,1,Government,2681,Referred,Yes,,Central,Paid
+HV1956,P2579,37,Male,2024-04-28,2024-04-29,Dermatology,Skin Infection,Surgery,D130,1,Private,7578,Recovered,Yes,2.0,West,Paid
+HV1957,P2038,28,Female,2024-01-06,2024-01-10,Dermatology,Skin Infection,Therapy,D138,4,None,882,Recovered,No,5.0,North,Paid
+HV1958,P2488,66,Female,2024-10-04,2024-10-05,Orthopedics,Dislocation,Medication,D132,1,None,321,Recovered,Yes,5.0,West,Paid
+HV1959,P2438,72,Female,2024-07-01,2024-07-06,Obstetrics,Childbirth,Medication,D107,5,None,685,Ongoing,Yes,,Central,Insurance Processing
+HV1960,P2184,52,Male,2024-04-17,2024-04-20,Oncology,Lung Cancer,Therapy,D130,3,Private,1424,Recovered,Yes,3.0,West,Insurance Processing
+HV1961,P2443,44,Male,2024-12-18,2024-12-19,Emergency,Food Poisoning,Observation,D125,1,Private,189,Ongoing,Yes,1.0,North,Paid
+HV1962,P2075,23,Male,2024-07-31,2024-08-03,Emergency,Severe Dehydration,Surgery,D111,3,Private,9240,Ongoing,No,4.0,North,Insurance Processing
+HV1963,P2546,66,Male,2024-08-17,2024-08-18,Dermatology,Skin Infection,Observation,D118,1,Private,475,Ongoing,Yes,4.0,West,Pending
+HV1964,P2549,50,Female,2024-02-16,2024-02-17,Emergency,Food Poisoning,Medication,D115,1,Government,646,Recovered,Yes,1.0,North,Insurance Processing
+HV1965,P2238,40,Male,2024-05-03,2024-05-08,Cardiology,Hypertension,Surgery,D135,5,Government,6403,Recovered,Yes,2.0,Central,Pending
+HV1966,P2503,60,Male,2024-03-12,2024-03-15,Oncology,Colon Cancer,Medication,D134,3,Private,552,Recovered,No,4.0,North,Insurance Processing
+HV1967,P2283,20,Female,2024-01-16,2024-01-18,Cardiology,Hypertension,Medication,D102,2,None,131,Ongoing,Yes,1.0,North,Pending
+HV1968,P2101,26,Female,2024-10-02,2024-10-03,Gynecology,Fibroids,Medication,D110,1,None,420,Recovered,No,3.0,West,Paid
+HV1969,P2088,32,Male,2024-11-03,2024-11-04,Obstetrics,Childbirth,Observation,D134,1,None,490,Recovered,Yes,3.0,East,Pending
+HV1970,P2042,54,Female,2024-08-27,2024-09-02,Cardiology,Hypertension,Medication,D101,6,Government,351,Recovered,No,5.0,North,Pending
+HV1971,P2387,48,Male,2024-04-30,2024-05-04,Dermatology,Skin Infection,Therapy,D133,4,Private,2013,Ongoing,No,,Central,Insurance Processing
+HV1972,P2041,56,Female,2024-01-28,2024-01-29,Dermatology,Skin Infection,Surgery,D127,1,Government,5768,Deceased,Yes,2.0,Central,Paid
+HV1973,P2275,64,Male,2024-03-03,2024-03-10,Dermatology,Dermatitis,Medication,D136,7,None,105,Ongoing,Yes,5.0,East,Pending
+HV1974,P2255,57,Male,2024-07-12,2024-07-13,Oncology,Colon Cancer,Medication,D126,1,Private,258,Recovered,Yes,5.0,West,Pending
+HV1975,P2305,79,Male,2024-01-11,2024-01-12,Oncology,Leukemia,Surgery,D124,1,Government,3752,Ongoing,Yes,4.0,Central,Pending
+HV1976,P2299,64,Female,2024-03-21,2024-03-23,Gynecology,Ovarian Cyst,Therapy,D103,2,Private,2011,Recovered,Yes,,Central,Pending
+HV1977,P2387,42,Female,2024-07-29,2024-07-30,Neurology,Migraine,Medication,D115,1,Government,477,Recovered,No,3.0,North,Pending
+HV1978,P2625,35,Male,2024-12-10,2024-12-14,Gynecology,Fibroids,Therapy,D104,4,None,1478,Ongoing,No,2.0,West,Insurance Processing
+HV1979,P2323,43,Male,2024-07-21,2024-07-28,Oncology,Lung Cancer,Medication,D106,7,Private,714,Ongoing,Yes,5.0,North,Paid
+HV1980,P2608,57,Male,2024-11-19,2024-11-20,Oncology,Leukemia,Surgery,D109,1,Private,2321,Recovered,Yes,5.0,East,Pending
+HV1981,P2399,37,Male,2024-08-24,2024-08-31,Dermatology,Skin Infection,Medication,D112,7,Private,127,Recovered,Yes,5.0,Central,Paid
+HV1982,P2387,58,Female,2024-08-29,2024-08-30,Obstetrics,Childbirth,Therapy,D139,1,Private,512,Recovered,No,2.0,Central,Paid
+HV1983,P2319,56,Male,2024-03-04,2024-03-13,Neurology,Stroke,Therapy,D115,9,Private,2455,Ongoing,No,2.0,North,Insurance Processing
+HV1984,P2162,28,Male,2024-11-06,2024-11-11,Orthopedics,Fracture,Surgery,D129,5,Private,2628,Recovered,No,2.0,East,Insurance Processing
+HV1985,P2044,64,Female,2024-11-18,2024-11-19,Cardiology,Arrhythmia,Surgery,D132,1,None,9915,Recovered,Yes,,North,Pending
+HV1986,P2019,51,Male,2024-04-08,2024-04-09,Cardiology,Heart Failure,Therapy,D125,1,Private,862,Recovered,No,1.0,West,Insurance Processing
+HV1987,P2218,78,Male,2024-03-30,2024-03-31,Oncology,Leukemia,Therapy,D123,1,Private,2585,Recovered,No,4.0,North,Insurance Processing
+HV1988,P2216,44,Female,2024-05-28,2024-05-29,Cardiology,Hypertension,Surgery,D120,1,None,5665,Recovered,No,,North,Pending
+HV1989,P2048,39,Male,2024-04-29,2024-05-01,Gynecology,Fibroids,Medication,D107,2,Government,562,Deceased,Yes,3.0,West,Insurance Processing
+HV1990,P2187,26,Male,2024-12-31,2025-01-04,Obstetrics,Childbirth,Surgery,D126,4,Government,8280,Recovered,No,5.0,East,Paid
+HV1991,P2535,25,Female,2024-03-15,2024-03-16,Gynecology,Ovarian Cyst,Surgery,D110,1,Private,2174,Recovered,Yes,2.0,North,Paid
+HV1992,P2190,62,Male,2024-05-30,2024-06-05,Orthopedics,Knee Injury,Observation,D137,6,Government,458,Recovered,Yes,4.0,Central,Pending
+HV1993,P2428,75,Male,2024-11-24,2024-11-25,Obstetrics,Childbirth,Surgery,D120,1,Government,6970,Recovered,No,,North,Insurance Processing
+HV1994,P2142,43,Male,2024-05-25,2024-05-29,Cardiology,Arrhythmia,Observation,D108,4,None,274,Ongoing,Yes,4.0,West,Insurance Processing
+HV1995,P2693,41,Male,2024-08-10,2024-08-11,Neurology,Stroke,Observation,D137,1,Private,1260,Ongoing,Yes,,North,Paid
+HV1996,P2542,46,Female,2024-10-19,2024-10-20,Gynecology,Fibroids,Therapy,D113,1,Government,2717,Ongoing,No,,Central,Paid
+HV1997,P2169,65,Female,2024-04-24,2024-04-29,Cardiology,Hypertension,Observation,D139,5,Private,159,Ongoing,Yes,1.0,Central,Insurance Processing
+HV1998,P2198,28,Female,2024-01-14,2024-01-15,Cardiology,Hypertension,Observation,D134,1,Private,250,Recovered,No,1.0,East,Pending
+HV1999,P2182,49,Male,2024-10-25,2024-11-01,Obstetrics,Childbirth,Surgery,D104,7,Government,4212,Recovered,No,4.0,North,Paid
